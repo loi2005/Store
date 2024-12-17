@@ -1,0 +1,19 @@
+:root {
+  font-size: 62.5%;
+  --navbar-color: rgba(69, 72, 76, 1);
+  --text-color: #fff;
+  --body-color: rgba(31, 31, 33, 1);
+  --btn-bg: #fec55d;
+  --btn-color: rgba(31, 31, 33, 1);
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-size: 1.6rem;
+  line-height: 1.5;
+  text-rendering: optimizeSpeed;
+  background-color: var(--body-color);
+}

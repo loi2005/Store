@@ -1,0 +1,188 @@
+[
+  {
+    "id": 1,
+    "title": "ELECTRO SonicBlu SN2363",
+    "price": "534.00",
+    "image": "../../../assets/images/Headphones.I01.2k.jpg",
+    "hoverImages": "../../../assets/images/Headphones.H03.2k.jpg",
+    "model": ["Multi-Device", "In-Ear", "Noise-Cancelling", "USB-C"],
+    "totalProduct": [
+      "../../../assets/images/Headphones.I01.2k.jpg",
+      "../../../assets/images/Headphones.H03.2k.jpg"
+    ],
+    "description": "Hear your music with ELECTRO SonicBlu SN2363! This must-have headphone cycles through the airwaves with futuristic flair, combining stylish design with the latest high-tech Bluetooth features. Enjoy incredible sound quality and feel like a modern-day techno wizard!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+  },
+  {
+    "id": 2,
+    "title": "ELECTRO SonicBlu SN2333",
+    "price": "534.00",
+    "image": "../../../assets/images/8.jpg",
+    "hoverImages": "../../../assets/images/7.jpg",
+    "model": ["Wireless", "Over-Ear", "ANC", "3.5mm"],
+    "colors": ["#ffc0cb", "#ee82ee", "#add8e6"],
+    "totalProduct": [
+      "../../../assets/images/8.jpg",
+      "../../../assets/images/violet.webp",
+      "../../../assets/images/light bule.webp"
+    ],
+    "colorProducts": [
+      "../../../assets/images/8.jpg",
+      "../../../assets/images/violet.webp",
+      "../../../assets/images/light bule.webp"
+    ],
+    "description": "Hear your music with ELECTRO SonicBlu SN2333! This must-have headphone cycles through the airwaves with futuristic flair, combining stylish design with the latest high-tech Bluetooth features. Enjoy incredible sound quality and feel like a modern-day techno wizard!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+  },
+  {
+    "id": 3,
+    "title": "ELECTRO SonicBlu SN2322",
+    "price": "565.00 ",
+    "image": "../../../assets/images/45.jpg",
+    "hoverImages": "../../../assets/images/43.jpg",
+    "model": ["Multi-Device", "In-Ear", "Noise-Cancelling", "USB-C"],
+    "colors": ["#ffa500", "#808080", "#90ee90", "#add8e6"],
+    "totalProduct": [
+      "../../../assets/images/45.jpg",
+      "../../../assets/images/Gray.webp",
+      "../../../assets/images/light green.webp",
+      "../../../assets/images/light bule.webp"
+    ],
+    "colorProducts": [
+      "../../../assets/images/45.jpg",
+      "../../../assets/images/Gray.webp",
+      "../../../assets/images/light green.webp",
+      "../../../assets/images/light bule.webp"
+    ],
+    "description": "Introducing the ELECTRO SonicBlu SN2322 Headphones! Hear every beat with colorful, playful vibes and high-quality sound that will never wash away thanks to its waterproof capabilities. Experience audio bliss while your ears are in the lap of luxurious comfort. Get your groove on, rain or shine!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+  },
+  {
+    "id": 4,
+    "title": "ELECTRO SonicBlu SN5599",
+    "price": "738.00",
+    "image": "../../../assets/images/20.jpg",
+    "hoverImages": "../../../assets/images/21.jpg",
+    "model": ["Bluetooth", "Foldable", "3D Sound", "10m Range"],
+    "totalProduct": [
+      "../../../assets/images/20.jpg",
+      "../../../assets/images/21.jpg"
+    ],
+    "description": "Experience superior sound quality with the ELECTRO SonicBlu SN5599 wireless headphones. Featuring a unique design, this limited edition model comes equipped with exclusive technology for an immersive audio experience. Put on a pair of these headphones and enjoy your favorite music with clarity and power.This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+  },
+  {
+    "id": 5,
+    "title": "ELECTRO SonicBlu SN2311",
+    "price": "565.00 ",
+    "image": "../../../assets/images/41.jpg",
+    "hoverImages": "../../../assets/images/40.jpg",
+    "model": ["Bluetooth", "Foldable", "3D Sound", "10m Range"],
+    "totalProduct": [
+      "../../../assets/images/41.jpg",
+      "../../../assets/images/40.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.”"
+  },
+  {
+    "id": 6,
+    "title": "ELECTRO SonicBlu SN2361",
+    "price": "534.00 ",
+    "image": "../../../assets/images/15.jpg",
+    "hoverImages": "../../../assets/images/13.jpg",
+    "model": ["Wireless", "Over-Ear", "ANC", "3.5mm"],
+    "totalProduct": [
+      "../../../assets/images/15.jpg",
+      "../../../assets/images/13.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.”"
+  },
+  {
+    "id": 7,
+    "title": "ELECTRO SonicBlu SN5543",
+    "price": "738.00 ",
+    "image": "../../../assets/images/23.jpg",
+    "hoverImages": "../../../assets/images/22.jpg",
+    "model": ["Multi-Device", "In-Ear", "Noise-Cancelling", "USB-C"],
+    "colors": ["#ff0000", "#008000", "#0000ff"],
+    "totalProduct": [
+      "../../../assets/images/23.jpg",
+      "../../../assets/images/green.webp",
+      "../../../assets/images/blue.webp"
+    ],
+    "colorProducts": [
+      "../../../assets/images/23.jpg",
+      "../../../assets/images/green.webp",
+      "../../../assets/images/blue.webp"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.”"
+  },
+  {
+    "id": 8,
+    "title": "ELECTRO SonicBlu SN3367",
+    "price": "738.00 ",
+    "image": "../../../assets/images/26.jpg",
+    "hoverImages": "../../../assets/images/25.jpg",
+    "model": ["Multi-Device", "In-Ear", "Noise-Cancelling", "USB-C"],
+    "totalProduct": [
+      "../../../assets/images/26.jpg",
+      "../../../assets/images/25.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.”"
+  },
+
+  {
+    "id": 9,
+    "title": "ELECTRO SonicBlu SN2360",
+    "price": "534.00 ",
+    "image": "../../../assets/images/17.jpg",
+    "hoverImages": "../../../assets/images/16.jpg",
+    "model": ["Multi-Device", "In-Ear", "Noise-Cancelling", "USB-C"],
+    "totalProduct": [
+      "../../../assets/images/17.jpg",
+      "../../../assets/images/16.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.”"
+  },
+  {
+    "id": 10,
+    "title": "ELECTRO SonicBlu SN3366",
+    "price": "738.00 ",
+    "image": "../../../assets/images/30.jpg",
+    "hoverImages": "../../../assets/images/28.jpg",
+    "model": ["Bluetooth", "Foldable", "3D Sound", "10m Range"],
+    "totalProduct": [
+      "../../../assets/images/30.jpg",
+      "../../../assets/images/28.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.”"
+  },
+  {
+    "id": 11,
+    "title": "ELECTRO SonicBlu SN2319",
+    "price": "565.00 ",
+    "image": "../../../assets/images/32.jpg",
+    "hoverImages": "../../../assets/images/31.jpg",
+    "model": ["Bluetooth", "Foldable", "3D Sound", "10m Range"],
+    "totalProduct": [
+      "../../../assets/images/32.jpg",
+      "../../../assets/images/31.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.”"
+  },
+  {
+    "id": 12,
+    "title": "ELECTRO SonicBlu SN2369",
+    "price": "534.00 ",
+    "image": "../../../assets/images/12.jpg",
+    "hoverImages": "../../../assets/images/10.jpg",
+    "model": ["Wireless", "Over-Ear", "ANC", "3.5mm"],
+    "colors": ["#ff0000", "#0000ff"],
+    "totalProduct": [
+      "../../../assets/images/12.jpg",
+      "../../../assets/images/10.jpg",
+      "../../../assets/images/Blue2.webp"
+    ],
+    "colorProducts": [
+      "../../../assets/images/12.jpg",
+      "../../../assets/images/Blue2.webp"
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.”"
+  }
+]

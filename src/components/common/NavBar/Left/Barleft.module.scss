@@ -1,0 +1,66 @@
+.navbar .navbar-list {
+  display: flex;
+  list-style: none;
+  text-decoration: none;
+}
+.navbar .navbar-list .navbar-items {
+  padding: 8px 16px;
+  position: relative;
+}
+.navbar .navbar-list .navbar-items button {
+  outline: none;
+  border: none;
+  background: transparent;
+}
+.link {
+  text-decoration: none;
+  font-size: 1.9rem;
+  font-weight: 800;
+  color: var(--text-color);
+  transition: 0.3s all ease;
+  &:hover {
+    color: var(--btn-bg);
+  }
+
+  display: flex;
+  align-items: center;
+}
+.active {
+  color: var(--btn-bg);
+}
+.navbar .navbar-list .navbar-items .link i {
+  color: #fff;
+  font-size: 2.5rem;
+  margin-left: 10px;
+  transition: transform 0.3s ease;
+  z-index: -1;
+}
+.rotate {
+  transform: rotate(180deg);
+  transition: transform 0.3s ease;
+}
+.active {
+  color: var(--btn-bg);
+  transition: 0.3s all ease;
+}
+.Shop-list {
+  position: absolute;
+  z-index: 1;
+  top: 100px;
+  left: 0;
+  width: 100%;
+  min-height: 400px;
+  transform: translateY(-20%);
+  opacity: 0;
+  transition: 0.2s all ease;
+  &.show {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  &.navHidden {
+    opacity: 0;
+    transform: translateY(-100%);
+    z-index: -1;
+    transition: 0.3s all ease;
+  }
+}

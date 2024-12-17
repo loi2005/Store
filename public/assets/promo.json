@@ -1,0 +1,14 @@
+{
+  "promo1": {
+    "discount": "SALE OVER 10%",
+    "option": "Sleek portables",
+    "detail": "Introducing our all-new collection of portables designed to elevate your summer adventures. The latest in wireless technology, stunning visuals, and immersive sound, all packed into these summer-ready collection. Get ready to bask in the sun and enjoy seamless entertainment like never before.",
+    "img": "../../../assets/images/audio.jpg"
+  },
+  "promo2": {
+    "discount": "SALE OVER 15% ",
+    "option": "Best Choice for Audiophiles",
+    "detail": "Designed with uncompromising attention to detail, this speaker is a sonic masterpiece that caters to the most discerning music enthusiasts. Immerse yourself in a world of pure sound, as our speaker delivers crystal-clear highs, rich midranges, and deep, resonating bass that captivate the senses",
+    "video": "../../../assets/images/video.mp4"
+  }
+}

@@ -1,0 +1,140 @@
+.color-list {
+  display: flex;
+}
+.color-item {
+  position: relative;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: 0.3s all ease;
+}
+.color-circle {
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  position: absolute;
+}
+.color-name {
+  position: absolute;
+  top: -30px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1;
+  color: #fff;
+  white-space: nowrap;
+  padding: 0 10px;
+  border-radius: 5px;
+  display: flex;
+  font-weight: 600;
+  background-color: var(--navbar-color);
+  &::after {
+    position: absolute;
+    content: "";
+    width: 10px;
+    height: 10px;
+    background-color: var(--navbar-color);
+    top: 19px;
+    left: 43%;
+    transform: rotate(45deg);
+    z-index: -1;
+  }
+}
+.show_color {
+  background-color: rgb(244, 228, 163);
+  transition: 0.2s all ease;
+}
+//btn explore
+.btn_explore {
+  margin: 50px 10px 0;
+}
+//animation
+.animate-container {
+  overflow: hidden;
+  width: 100%;
+  margin: 50px 0;
+}
+.animate-marquee {
+  width: 100%;
+  display: inline-flex;
+  animation: animate 10s linear infinite;
+}
+.animate-marquee_letter {
+  margin: 0 40px;
+  font-size: 4rem;
+  font-weight: 700;
+  color: var(--btn-bg);
+  white-space: nowrap;
+}
+@keyframes animate {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+//image and video with Text
+.imgVideo {
+  width: 100%;
+}
+.imgVideo .imgText {
+  width: 100%;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  overflow: hidden;
+  border-radius: 25px;
+  align-items: center;
+  margin-bottom: 100px;
+}
+.imgVideo .imgText .imgText-img {
+  width: 50%;
+  height: 727px;
+}
+.imgText-content {
+  padding: 0 60px;
+}
+.discount {
+  font-size: 2.4rem;
+  color: var(--btn-color);
+  font-weight: 500;
+}
+.option {
+  white-space: nowrap;
+  display: block;
+  font-size: 5rem;
+  color: var(--btn-color);
+  font-weight: 700;
+}
+.detail {
+  margin: 30px 0 60px;
+  color: #535151;
+  font-size: 2rem;
+  line-height: 3.5rem;
+  text-align: justify;
+  font-weight: 500;
+}
+//video
+.VideoText {
+  display: flex;
+  width: 100%;
+  background-color: #fff;
+  height: 560px;
+  overflow: hidden;
+  border-radius: 25px;
+  align-items: center;
+}
+.video {
+  width: 50%;
+  height: 100%;
+  position: relative;
+  background: black;
+}
+
+.VideoText-content {
+  width: 50%;
+  padding: 0 60px;
+}

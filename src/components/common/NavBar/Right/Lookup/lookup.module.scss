@@ -1,0 +1,80 @@
+.container {
+  position: fixed;
+  top: 92px;
+  left: 0;
+  right: 0;
+  height: 400px;
+  background-color: var(--navbar-color);
+  padding: 30px 50px;
+  border-radius: 10px;
+  z-index: 100;
+}
+.overPlay {
+  width: 100%;
+  background-color: rgba(31, 31, 31, 0.559);
+  position: fixed;
+  top: 0;
+  left: 0;
+  min-height: 1000vh;
+  z-index: -1;
+  border-radius: 25px;
+}
+.container .heading {
+  display: flex;
+  height: 40px;
+  align-items: center;
+}
+.container .heading select {
+  position: relative;
+  border-radius: 5px 0 0 5px;
+  border: none;
+  outline: none;
+  background-color: var(--body-color);
+  color: #fff;
+  height: 100%;
+}
+.enter {
+  height: 100%;
+  display: flex;
+  position: relative;
+  width: 100%;
+  align-items: center;
+  &::before {
+    position: absolute;
+    content: "";
+    width: 1px;
+    height: 100%;
+    background: rgb(93, 91, 91);
+    left: 10px;
+  }
+}
+.input {
+  flex: 1;
+  border-radius: 0 5px 5px 0;
+  height: 100%;
+  border: none;
+  outline: none;
+  padding-left: 30px;
+  background-color: var(--body-color);
+  color: #fff;
+}
+.icon-search {
+  position: absolute;
+  right: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.2rem;
+  color: #fff;
+  font-weight: 600;
+}
+.container .heading i {
+  cursor: pointer;
+  font-size: 3rem;
+  color: #fff;
+  font-style: 500;
+  z-index: 100;
+  margin-left: 20px;
+}

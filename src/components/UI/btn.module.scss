@@ -1,0 +1,15 @@
+.primary {
+  width: 130px;
+  height: 44px;
+  cursor: pointer;
+  border-radius: 5px;
+  border: none;
+  background-color: var(--btn-bg);
+  color: var(--btn-color);
+  font-weight: 800;
+  font-size: 1.6rem;
+  transition: 0.3s all ease;
+  &:hover {
+    transform: scale(1.05);
+  }
+}

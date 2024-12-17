@@ -1,0 +1,33 @@
+.container {
+  width: 100%;
+  display: flex;
+  background-color: #fff;
+  padding: 32px 96px;
+  border-radius: 25px;
+}
+.container-content {
+  display: grid;
+  width: 100%;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 40px;
+}
+
+.img {
+  width: 100%;
+  height: 100%;
+  transition: 0.3s all ease;
+  &:hover {
+    transform: scale(1.1);
+  }
+}
+.link {
+  text-decoration: none;
+  color: var(--body-color);
+  line-height: 40px;
+}
+.image {
+  width: 630px;
+  height: 300px;
+  border-radius: 10px;
+  overflow: hidden;
+}

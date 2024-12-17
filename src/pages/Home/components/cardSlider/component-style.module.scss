@@ -1,0 +1,130 @@
+.content {
+  width: 100%;
+  min-height: 600px;
+  position: relative;
+  display: flex;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 150px;
+}
+.heading {
+  margin: 20px 10px;
+}
+.heading .title {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: #fff;
+}
+.heading .event {
+  font-size: 3.2rem;
+  font-weight: 800;
+  color: #fff;
+}
+.Products {
+  display: flex;
+  width: 100%;
+  transition: 1s all ease;
+}
+.product-name,
+.product-price {
+  margin-left: 10px;
+  color: #fff;
+}
+.product-name {
+  font-size: 2rem;
+  font-weight: 700;
+}
+.item {
+  color: #fff;
+  width: 100%;
+  height: 100%;
+  margin-right: 8px;
+  &:hover .icons {
+    opacity: 1;
+  }
+}
+.item .icon {
+  font-size: 2rem;
+  font-weight: 600;
+  color: rgb(0, 0, 0);
+  height: 40px;
+  width: 40px;
+  background-color: #fff;
+  margin-right: 10px;
+  display: flex;
+  border-radius: 50%;
+  border: 1px solid #c0bfbf;
+  align-items: center;
+  justify-content: center;
+  transition: 0.3s all ease;
+  &:hover {
+    transform: scale(1.2);
+    border: 4px solid #eacd9a65;
+  }
+}
+
+.icons {
+  display: flex;
+  position: relative;
+  top: -70px;
+  right: -250px;
+  opacity: 0;
+  transition: 0.3s all ease;
+}
+.item img {
+  max-width: 345px;
+  max-height: 345px;
+  border-radius: 20px;
+  margin-left: 10px;
+}
+// btn
+.btn {
+  cursor: pointer;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background: #807e7e;
+  border: none;
+  outline: none;
+  transition: 0.2s all ease;
+  font-size: 2.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  &:hover {
+    background-color: var(--btn-bg);
+    transform: scale(1.05);
+  }
+}
+.btn-left {
+  position: absolute;
+  left: 0;
+  top: 50%;
+}
+.btn-right {
+  position: absolute;
+  right: 0;
+  top: 50%;
+}
+.hidden_left {
+  opacity: 0;
+  transition: 0.3s all ease;
+}
+.hidden_right {
+  opacity: 0;
+  transition: 0.3s all ease;
+}
+// name
+.details {
+  margin: 0 10px;
+}
+.model-item {
+  display: inline-block;
+  border-radius: 25px;
+  padding: 5px 10px;
+  background: var(--navbar-color);
+  font-size: 1.5rem;
+  margin: 5px;
+  font-weight: 500;
+}
