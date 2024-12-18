@@ -3,7 +3,7 @@ import style from "./small.module.scss";
 import classNames from "classnames/bind";
 import Btn_Pre_Next from "../Button";
 import HandleColor from "../../../pages/Home/components/Handle";
-function SmallItem({ product }) {
+function IdxObject({ product }) {
   const { selectedColor, currentIndexImg, scrollImage } = HandleColor();
   const [amount, setAmount] = useState(1);
   const [showItem, setShowItem] = useState(true);
@@ -40,9 +40,10 @@ function SmallItem({ product }) {
               className={cx("sub-box-img")}
               style={{ transform: `translateX(-${currentIndexImg * 730}px)` }}
             >
-              {product.totalProduct.map((item, index) => (
-                <img key={index} className={cx("img")} src={item} />
-              ))}
+              {product.totalProduct &&
+                Object.values(product.totalProduct).map((item, index) => (
+                  <img key={index} className={cx("img")} src={item} />
+                ))}
             </div>
           </div>
           <div
@@ -53,7 +54,7 @@ function SmallItem({ product }) {
             <i onClick={handlePrev} className={cx("bx bx-chevron-left")}></i>
           </div>
           <div
-            className={cx("btn-right", "btn-prev", {
+            className={cx("btn-right", "btn-next", {
               hiddenr: currentIndex === product.totalProduct.length - 1,
             })}
           >
@@ -70,9 +71,10 @@ function SmallItem({ product }) {
           </div>
           <p className={cx("content-title")}>{product.title}</p>
           <div className={cx("item")}>
-            {product.model.map((item) => (
-              <p className={cx("content-item")}>{item}</p>
-            ))}
+            {product.model &&
+              Object.values(product.model).map((item) => (
+                <p className={cx("content-item")}>{item}</p>
+              ))}
           </div>
           <p>{product.price}</p>
           {/* color */}
@@ -118,11 +120,11 @@ function SmallItem({ product }) {
           </div>
           {/* description */}
           <div>
-            <p className={cx("des")}>{product.description}</p>
+            <p className={cx("des")}>{product.descriptionProduct}</p>
           </div>
         </div>
       </div>
     )
   );
 }
-export default SmallItem;
+export default IdxObject;

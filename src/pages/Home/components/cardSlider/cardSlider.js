@@ -3,7 +3,7 @@ import HoverImage from "../HoverImage";
 import style from "./component-style.module.scss";
 import classNames from "classnames/bind";
 import Btn_Pre_Next from "../../../../components/UI/Button";
-import SmallItem from "../../../../components/UI/smallItem";
+import IdxObject from "../../../../components/UI/smallItem/idxObject";
 function CardSlider({ products }) {
   const CP = classNames.bind(style);
   const totalCards = 2;
@@ -19,7 +19,7 @@ function CardSlider({ products }) {
   };
   return (
     <div>
-      {isToggle && <SmallItem product={selectProduct} />}
+      {isToggle && <IdxObject product={selectProduct} />}
       <div
         className={CP("Products")}
         style={{ transform: `translateX(-${currentIndex * 720}px)` }}

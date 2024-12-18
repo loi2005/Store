@@ -38,7 +38,7 @@ function Collection() {
         ) : (
           <div className={cx("overlay")}>
             <div className={cx("spinner")}>
-              <Circles
+              <TailSpin
                 height="80"
                 width="80"
                 color="#fff"

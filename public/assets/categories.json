@@ -753,6 +753,42 @@
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/107.jpg?v=1690519543&width=950"
         ],
         "descriptionProduct": "Take your tunes to new heights with ELECTRO SkyBuds SKB2567, the ultimate Bluetooth earphone! With top-of-the-line sound quality, waterproof durability, and noise cancelling technology, they're the perfect companion for your air travel adventures. (Think of them as your own personal jet-setting DJ!) So hit the skies and blast off with SkyBuds SKB2567!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 33,
+        "title": "ELECTRO SkyBuds SKB2889",
+        "price": "290.00 ",
+        "model": ["Wireless", "Over-Ear", "ANC", "3.5mm"],
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Earbuds.B11.2k.jpg?v=1690798085&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Earbuds.F12.2k.jpg?v=1690798085&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Earbuds.F12.2k.jpg?v=1690798085&width=950"
+        ],
+        "descriptionProduct": "ELECTRO SkyBuds SKB2889 Electro Audio Demo ELECTRO SkyBuds SKB2889 Wireless Over-Ear ANC 3.5mm Regular price$290.00 AUD Tax included. Shipping calculated at checkout. In stock: 201Add to cartBuy it now Take your tunes to new heights with ELECTRO SkyBuds SKB2889, the ultimate Bluetooth earphone! With top-of-the-line sound quality, waterproof durability, and noise cancelling technology, they're the perfect companion for your air travel adventures. (Think of them as your own personal jet-setting DJ!) So hit the skies and blast off with SkyBuds SKB2567!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 34,
+        "title": "ELECTRO SkyBuds SKB9090",
+        "price": "290.00 ",
+        "model": ["Bluetooth", "Foldable", "3D Sound", "10m Range"],
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Headphones.E08.2k.jpg?v=1690798170&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Headphones.G01.2k.jpg?v=1690798170&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Headphones.G01.2k.jpg?v=1690798170&width=950"
+        ],
+        "descriptionProduct": "Electro Audio Demo ELECTRO SkyBuds SKB9090 Bluetooth Foldable 3D Sound 10m Range Regular price$290.00 AUD Tax included. Shipping calculated at checkout. In stock: 20 1 Add to cart Buy it now Take your tunes to new heights with ELECTRO SkyBuds SKB9090, the ultimate Bluetooth earphone! With top-of-the-line sound quality, waterproof durability, and noise cancelling technology, they're the perfect companion for your air travel adventures. (Think of them as your own personal jet-setting DJ!) So hit the skies and blast off with SkyBuds SKB2567!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 35,
+        "title": "ELECTRO SkyBuds SKB9191",
+        "price": "290.00 ",
+        "model": ["Multi-Device", "In-Ear", "Noise-Cancelling", "USB-C"],
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Headphones_20Pink.C07.2k.jpg?v=1690798210&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Headphones_20Pink.F01.2k.jpg?v=1690798210&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Headphones_20Pink.F01.2k.jpg?v=1690798210&width=950"
+        ],
+        "descriptionProduct": "Take your tunes to new heights with ELECTRO SkyBuds SKB9191, the ultimate Bluetooth earphone! With top-of-the-line sound quality, waterproof durability, and noise cancelling technology, they're the perfect companion for your air travel adventures. (Think of them as your own personal jet-setting DJ!) So hit the skies and blast off with SkyBuds SKB2567! This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
       }
     ],
     "homeAudio": [
@@ -760,148 +796,1142 @@
         "id": 1,
         "title": "ELECTRO WaveJive WJ8703",
         "price": "158.00 ",
-        "image": "../../../assets/images/AudioSystem.G01.2k.jpg",
-        "hoverImages": "../../../assets/images/AudioSystem.G03.2k.jpg",
-        "totalProduct": "../../../assets/images/AudioSystem.G03.2k.jpg"
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/AudioSystem.G01.2k.jpg?v=1690517856&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/AudioSystem.G03.2k.jpg?v=1690517856&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/AudioSystem.G01.2k.jpg?v=1690517856&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/AudioSystem.G03.2k.jpg?v=1690517856&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO WaveJive WJ8703 mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
       },
       {
         "id": 2,
         "title": "ELECTRO WaveJive WJ6481",
         "price": "158.00 ",
-        "image": "../../../assets/images/WhiteStereoSpeaker.G01.2k.jpg",
-        "hoverImages": "../../../assets/images/WhiteStereoSpeaker.G03.2k.jpg",
-        "totalProduct": "../../../assets/images/WhiteStereoSpeaker.G03.2k.jpg"
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/WhiteStereoSpeaker.G01.2k.jpg?v=1690517711&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/WhiteStereoSpeaker.G03.2k.jpg?v=1690517712&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/WhiteStereoSpeaker.G01.2k.jpg?v=1690517711&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/WhiteStereoSpeaker.G03.2k.jpg?v=1690517712&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO WaveJive WJ3481 mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
       },
       {
         "id": 3,
         "title": "ELECTRO WaveJive WJ3481",
         "price": "158.00 ",
-        "image": "../../../assets/images/VintageOrangeSpeakerTower.G01.2k.jpg",
-        "hoverImages": "../../../assets/images/VintageOrangeSpeakerTower.G03.2k.jpg",
-        "totalProduct": "../../../assets/images/VintageOrangeSpeakerTower.G03.2k.jpg"
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/VintageOrangeSpeakerTower.G01.2k.jpg?v=1690517693&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/VintageOrangeSpeakerTower.G03.2k.jpg?v=1690517692&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/VintageOrangeSpeakerTower.G01.2k.jpg?v=1690517693&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/VintageOrangeSpeakerTower.G03.2k.jpg?v=1690517692&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO WaveJive WJ3481 mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
       },
 
       {
         "id": 4,
         "title": "ELECTRO WaveJive WJ8411",
         "price": "158.00 ",
-        "image": "../../../assets/images/StudioAudioMonitorSpeaker.G01.2k.jpg",
-        "hoverImages": "../../../assets/images/StudioAudioMonitorSpeaker.G03.2k.jpg",
-        "totalProduct": "../../../assets/images/StudioAudioMonitorSpeaker.G03.2k.jpg"
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/StudioAudioMonitorSpeaker.G01.2k.jpg?v=1690517618&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/StudioAudioMonitorSpeaker.G03.2k.jpg?v=1690517618&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/StudioAudioMonitorSpeaker.G01.2k.jpg?v=1690517618&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/StudioAudioMonitorSpeaker.G03.2k.jpg?v=1690517618&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO WaveJive WJ6831 mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
       },
       {
         "id": 5,
         "title": "ELECTRO WaveJive WJ6821",
         "price": "158.00 ",
-        "image": "../../../assets/images/SurroundSoundSpeakerBlack.G03.2k.jpg",
-        "hoverImages": "../../../assets/images/SurroundSoundSpeakerBlack.G05.2k.jpg",
-        "totalProduct": "../../../assets/images/SurroundSoundSpeakerBlack.G05.2k.jpg"
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/SurroundSoundSpeakerBlack.G03.2k.jpg?v=1690517650&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/SurroundSoundSpeakerBlack.G05.2k.jpg?v=1690517650&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/SurroundSoundSpeakerBlack.G03.2k.jpg?v=1690517650&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/SurroundSoundSpeakerBlack.G05.2k.jpg?v=1690517650&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO WaveJive WJ6831 mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product"
       },
       {
         "id": 6,
         "title": "ELECTRO WaveJive WJ6831",
         "price": "158.00 ",
-        "image": "../../../assets/images/StageSpeaker.G01.2k.jpg",
-        "hoverImages": "../../../assets/images/StageSpeaker.G15.2k.jpg",
-        "totalProduct": "../../../assets/images/StageSpeaker.G15.2k.jpg"
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/StageSpeaker.G01.2k.jpg?v=1690517587&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/StageSpeaker.G15.2k.jpg?v=1690517595&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/StageSpeaker.G01.2k.jpg?v=1690517587&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/StageSpeaker.G15.2k.jpg?v=1690517595&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO WaveJive WJ6831 mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie! This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+
+      {
+        "id": 7,
+        "title": "ELECTRO WaveJive WJ4657 ",
+        "price": "161.00  ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Speakers.G05.2k.jpg?v=1690517421&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Speakers.H03.2k.jpg?v=1690517442&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Speakers.G05.2k.jpg?v=1690517421&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Speakers.H03.2k.jpg?v=1690517442&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO WaveJive WJ4657 mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 8,
+        "title": "ELECTRO WaveJive WJ2487 ",
+        "price": "161.00  ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Speakers.G01.2k_3.jpg?v=1690517352&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Speakers.G03.2k_2.jpg?v=1690517352&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Speakers.G01.2k_3.jpg?v=1690517352&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Speakers.G03.2k_2.jpg?v=1690517352&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO WaveJive WJ2487 mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 9,
+        "title": "ELECTRO WaveJive WJ6234",
+        "price": "161.00  ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Speakers.G01.2k_2.jpg?v=1690517089&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Speakers.G15.2k_1.jpg?v=1690517090&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Speakers.G01.2k_2.jpg?v=1690517089&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Speakers.G15.2k_1.jpg?v=1690517090&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO WaveJive WJ6234 mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 10,
+        "title": "ELECTRO WaveJive WJ6421",
+        "price": "161.00  ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Speakers.G01.2k.jpg?v=1690516889&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Speakers.G03.2k.jpg?v=1690516889&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Speakers.G01.2k.jpg?v=1690516889&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Speakers.G03.2k.jpg?v=1690516889&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO WaveJive WJ6421 mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 11,
+        "title": "ELECTRO WaveJive WJ6829",
+        "price": "161.00  ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/SpeakerswithFilter.G01.2k.jpg?v=1690516794&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/SpeakerswithFilter.G15.2k.jpg?v=1690516798&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/SpeakerswithFilter.G01.2k.jpg?v=1690516794&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/SpeakerswithFilter.G15.2k.jpg?v=1690516798&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO WaveJive WJ6829 mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 12,
+        "title": "ELECTRO WaveJive WJ1674",
+        "price": "161.00  ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Speaker.G01.2k_1_c32df5bb-2420-4ac6-af77-db6dff50fcda.jpg?v=1690516753&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Speaker.G15.2k_1.jpg?v=1690516753&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Speaker.G01.2k_1_c32df5bb-2420-4ac6-af77-db6dff50fcda.jpg?v=1690516753&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Speaker.G15.2k_1.jpg?v=1690516753&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO WaveJive WJ1674 mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product"
+      },
+      {
+        "id": 13,
+        "title": "ELECTRO WaveJive WJ8522",
+        "price": "161.00  ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/SPEAKER.G01.2k.jpg?v=1690516736&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/SPEAKER.G15.2k_3e14c544-160a-461f-948d-0c1a6bf8294e.jpg?v=1690516736&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/SPEAKER.G01.2k.jpg?v=1690516736&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/SPEAKER.G15.2k_3e14c544-160a-461f-948d-0c1a6bf8294e.jpg?v=1690516736&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO WaveJive WJ2212 mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 14,
+        "title": "ELECTRO WaveJive WJ2212",
+        "price": "161.00  ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/SpeakerSystemGeneric.G01.2k.jpg?v=1690516579&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/SPEAKER.G15.2k_3e14c544-160a-461f-948d-0c1a6bf8294e.jpg?v=1690516736&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/SpeakerSystemGeneric.G01.2k.jpg?v=1690516579&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/SPEAKER.G15.2k_3e14c544-160a-461f-948d-0c1a6bf8294e.jpg?v=1690516736&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO WaveJive WJ2212 mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 15,
+        "title": "ELECTRO WaveJive WJ6421",
+        "price": "161.00  ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/SmallSpeaker.G01.2k.jpg?v=1690516560&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/SmallSpeaker.G03.2k.jpg?v=1690516561&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/SmallSpeaker.G01.2k.jpg?v=1690516560&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/SmallSpeaker.G03.2k.jpg?v=1690516561&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO WaveJive WJ6421 mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 16,
+        "title": "ELECTRO WaveJive WJ1231",
+        "price": "161.00  ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/RedSpeakers.H02.2k.jpg?v=1690516544&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/RedSpeakers.G03.2k.jpg?v=1690516544&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/RedSpeakers.H02.2k.jpg?v=1690516544&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/RedSpeakers.G03.2k.jpg?v=1690516544&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO WaveJive WJ1231 mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 17,
+        "title": "ELECTRO WaveJive WJ8631",
+        "price": "161.00  ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/RedSpeaker.G01.2k.jpg?v=1690516524&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/RedSpeaker.G03.2k.jpg?v=1690516524&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/RedSpeaker.G01.2k.jpg?v=1690516524&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/RedSpeaker.G03.2k.jpg?v=1690516524&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO WaveJive WJ8631 mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 18,
+        "title": "ELECTRO WaveJive WJ3512",
+        "price": "161.00  ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/RedFloorSpeaker.G01.2k.jpg?v=1690516497&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/RedFloorSpeaker.G03.2k.jpg?v=1690516497&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/RedFloorSpeaker.G01.2k.jpg?v=1690516497&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/RedFloorSpeaker.G03.2k.jpg?v=1690516497&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO WaveJive WJ3512 mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 19,
+        "title": "ELECTRO WaveJive WJ7421",
+        "price": "161.00  ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/PortableSpeakers.G01.2k.jpg?v=1690516474&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/PortableSpeakers.G03.2k.jpg?v=1690516474&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/PortableSpeakers.G01.2k.jpg?v=1690516474&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/PortableSpeakers.G03.2k.jpg?v=1690516474&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO WaveJive WJ7421 mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 20,
+        "title": "ELECTRO WaveJive WJ1092",
+        "price": "161.00  ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/PortableSpeaker.G01.2k.jpg?v=1690516436&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/PortableSpeaker.G03.2k.jpg?v=1690516437&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/PortableSpeaker.G01.2k.jpg?v=1690516436&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/PortableSpeaker.G03.2k.jpg?v=1690516437&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO WaveJive WJ1092 mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product"
+      },
+      {
+        "id": 21,
+        "title": "ELECTRO WaveJive WJ6322",
+        "price": "161.00  ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/PortableSpeaker.G01.2k_1.jpg?v=1690516389&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/PortableSpeaker.G15.2k_1.jpg?v=1690516404&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/PortableSpeaker.G01.2k_1.jpg?v=1690516389&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/PortableSpeaker.G15.2k_1.jpg?v=1690516404&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO WaveJive WJ6322 mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 22,
+        "title": "ELECTRO WaveJive WJ5734",
+        "price": "161.00  ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/PortableBluetoothSpeaker.G01.2k.jpg?v=1690516331&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/PortableBluetoothSpeaker.G03.2k.jpg?v=1690516331&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/PortableBluetoothSpeaker.G01.2k.jpg?v=1690516331&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/PortableBluetoothSpeaker.G03.2k.jpg?v=1690516331&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO WaveJive WJ5734 mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 23,
+        "title": "ELECTRO WaveJive WJ4432",
+        "price": "161.00  ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/PortableBassSpeakersWood.G01.2k.jpg?v=1690516314&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/PortableBassSpeakersWood.G03.2k.jpg?v=1690516315&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/PortableBassSpeakersWood.G01.2k.jpg?v=1690516314&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/PortableBassSpeakersWood.G03.2k.jpg?v=1690516315&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO WaveJive WJ4432 mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product"
+      },
+      {
+        "id": 24,
+        "title": "ELECTRO WaveJive WJ1341",
+        "price": "161.00  ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/PassiveSpeakersGeneric.G01.2k.jpg?v=1690516283&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/PassiveSpeakersGeneric.G03.2k.jpg?v=1690516282&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/PassiveSpeakersGeneric.G01.2k.jpg?v=1690516283&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/PassiveSpeakersGeneric.G03.2k.jpg?v=1690516282&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO WaveJive WJ1341 mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 25,
+        "title": "ELECTRO WaveJive WJ3211",
+        "price": "161.00  ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/PassiveSpeaker.G01.2k.jpg?v=1690516267&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/PassiveSpeaker.G03.2k.jpg?v=1690516267&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/PassiveSpeaker.G01.2k.jpg?v=1690516267&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/PassiveSpeaker.G03.2k.jpg?v=1690516267&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO WaveJive WJ3211 mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 26,
+        "title": "ELECTRO WaveJive WJ4212",
+        "price": "161.00  ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/OrangeFloorSpeaker.G01.2k.jpg?v=1690516250&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/OrangeFloorSpeaker.G03.2k.jpg?v=1690516250&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/OrangeFloorSpeaker.G01.2k.jpg?v=1690516250&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/OrangeFloorSpeaker.G03.2k.jpg?v=1690516250&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO WaveJive WJ4212 mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 27,
+        "title": "ELECTRO WaveJive WJ6279",
+        "price": "161.00  ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/OldRadio.G01.2k.jpg?v=1690515997&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/OldRadio.G03.2k.jpg?v=1690515997&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/OldRadio.G01.2k.jpg?v=1690515997&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/OldRadio.G03.2k.jpg?v=1690515997&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO WaveJive WJ6279 mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 28,
+        "title": "ELECTRO WaveJive WJ3736",
+        "price": "161.00  ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/GroundSpeaker.G01.2k.jpg?v=1690515976&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/GroundSpeaker.G03.2k.jpg?v=1690515976&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/GroundSpeaker.G01.2k.jpg?v=1690515976&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/GroundSpeaker.G03.2k.jpg?v=1690515976&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO WaveJive WJ3736 mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 29,
+        "title": "ELECTRO WaveJive WJ3764",
+        "price": "306.00   ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/FloorSpeaker.G01.2k_f6d021a8-6bf3-48da-8525-9cc794e1037f.jpg?v=1690515955&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/FloorSpeaker.G15.2k.jpg?v=1690515955&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/FloorSpeaker.G01.2k_f6d021a8-6bf3-48da-8525-9cc794e1037f.jpg?v=1690515955&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/FloorSpeaker.G15.2k.jpg?v=1690515955&width=950"
+        ],
+        "descriptionProduct": "Bust a move with this night-life-ready ELECTRO WaveJive speaker! Boasting 16 vibrant colors and rockin' wireless capabilities, this speaker will give your get-togethers a stylish soundtrack that'll have everyone talking - in more ways than one!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 30,
+        "title": "ELECTRO WaveJive WJ5612",
+        "price": "548.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/FloorSpeaker.F01.2k.jpg?v=1690515920&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/FloorSpeaker.F15.2k.jpg?v=1690515917&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/FloorSpeaker.F01.2k.jpg?v=1690515920&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/FloorSpeaker.F15.2k.jpg?v=1690515917&width=950"
+        ],
+        "descriptionProduct": "Ready to move your house party to the beach? The ELECTRO WaveJive WJ5612 bluetooth speaker is here to bring the noise! The WJ5612 will have you turning up the volume at your next get-together with its crystal clear sound and deep base. Don't worry about sound quality - this speaker always delivers, no matter how high you crank it!!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 31,
+        "title": "ELECTRO WaveJive WJ5677",
+        "price": "322.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/EmergencyVehicleSirenSpeaker.G01.2k.jpg?v=1690515888&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/EmergencyVehicleSirenSpeaker.G03.2k.jpg?v=1690515887&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/EmergencyVehicleSirenSpeaker.G01.2k.jpg?v=1690515888&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/EmergencyVehicleSirenSpeaker.G03.2k.jpg?v=1690515887&width=950"
+        ],
+        "descriptionProduct": "Introducing the ELECTRO WaveJive WJ5677, a uniquely designed wireless speaker that's ready to make a splash anywhere you take it! With its chic design and booming sound, this speaker is designed to help you jam like never before. Get ready to make waves!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 32,
+        "title": "ELECTRO WaveJive WJ5609",
+        "price": "403.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/ConcertSpeakers.G01.2k.jpg?v=1690515868&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/ConcertSpeakers.G14.2k.jpg?v=1690515868&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/ConcertSpeakers.G01.2k.jpg?v=1690515868&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/ConcertSpeakers.G14.2k.jpg?v=1690515868&width=950"
+        ],
+        "descriptionProduct": "Introducing the ELECTRO WaveJive WJ5609 - your ticket to wireless, throw-down sound. Feel the beats thump and the rhythms rock with stellar sound quality, perfect for any outdoor party or jam sesh. Get your groove on!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 33,
+        "title": "ELECTRO WaveJive WJ7910",
+        "price": "564.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/ConcertSpeakerx3Array.G01.2k.jpg?v=1690515828&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/ConcertSpeakerx3Array.G03.2k.jpg?v=1690515828&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/ConcertSpeakerx3Array.G01.2k.jpg?v=1690515828&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/ConcertSpeakerx3Array.G03.2k.jpg?v=1690515828&width=950"
+        ],
+        "descriptionProduct": "Introducing the ELECTRO WaveJive WJ7910: an out-of-this-world Bluetooth speaker that will have you rockin' and rollin' out the jams! This high-end speaker will give you sound waves so powerful, you'll be able to feel the vibrations through your knees and toes! Put your boring ol' playlists to rest and experience music like never before with the WJ7910!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 34,
+        "title": "ELECTRO WaveJive WJ7911",
+        "price": "322.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/ConcertSpeakerCab.G01.2k.jpg?v=1690515809&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/ConcertSpeakerCab.G03.2k.jpg?v=1690515809&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/ConcertSpeakerCab.G01.2k.jpg?v=1690515809&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/ConcertSpeakerCab.G03.2k.jpg?v=1690515809&width=950"
+        ],
+        "descriptionProduct": "Jam out with the ELECTRO WaveJive WJ7911! This Bluetooth speaker delivers quality sound with a punch, so you can rock out to your favorite tunes all day long. Turn up the volume, kick up your feet and get your groove on with this party-starter!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 35,
+        "title": "ELECTRO WaveJive WJ7866",
+        "price": "306.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/CinemaSpeaker.G05.2k.jpg?v=1690515771&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/CinemaSpeaker.G07.2k.jpg?v=1690515771&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/CinemaSpeaker.G05.2k.jpg?v=1690515771&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/CinemaSpeaker.G07.2k.jpg?v=1690515771&width=950"
+        ],
+        "descriptionProduct": "The ELECTRO WaveJive WJ7865 is a party powerhouse tucked into a small package! This powerful portable bluetooth speaker ensures your jams will keep going with its awesome sound, long battery life and waterproof design. So don't worry if you need to hit the pool - this little speaker is ready to rock & roll! This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 36,
+        "title": "ELECTRO WaveJive WJ7865",
+        "price": "81.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/BlackSpeaker.G01.2k.jpg?v=1690515635&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/CinemaSpeaker.G07.2k.jpg?v=1690515771&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/BlackSpeaker.G01.2k.jpg?v=1690515635&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/CinemaSpeaker.G07.2k.jpg?v=1690515771&width=950"
+        ],
+        "descriptionProduct": "The ELECTRO WaveJive WJ7865 is a party powerhouse tucked into a small package! This powerful portable bluetooth speaker ensures your jams will keep going with its awesome sound, long battery life and waterproof design. So don't worry if you need to hit the pool - this little speaker is ready to rock & roll!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
       }
     ],
     "mouse": [
       {
         "id": 1,
         "title": "ELECTRO SonicMove SM8953",
-        "price": "315.00",
-        "image": "../../../assets/images/BlueMouse.B05.2k.jpg",
-        "hoverImages": "../../../assets/images/BlueMouse.G15.2k.jpg",
-        "model": ["Adjustable DPI", "USB-C Charging", "Dual Mode"]
+        "price": "322.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/BlueMouse.B05.2k.jpg?v=1690854355&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/BlueMouse.G15.2k.jpg?v=1690854354&width=950",
+        "model": ["Adjustable DPI", "USB-C Charging", "Dual Mode"],
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/BlueMouse.B05.2k.jpg?v=1690854355&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/BlueMouse.G15.2k.jpg?v=1690854354&width=950"
+        ],
+        "descriptionProduct": "The ELECTRO SonicMove SM8953 bluetooth mouse will have you clicking with confidence! With its reliable connection, you won’t have to worry about it skipping a beat. Plus, its sleek design adds serious style to any setup. Check out this compact, cutting-edge mouse today!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
       },
       {
         "id": 2,
         "title": "ELECTRO SonicMove SM5312",
         "price": "315.00",
-        "image": "../../../assets/images/ComputerMouse.B09.2k.jpg",
-        "hoverImages": "../../../assets/images/ComputerMouse.F01.2k.jpg",
-        "model": ["Adjustable DPI", "USB-C Charging", "Dual Mode"]
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/ComputerMouse.B09.2k.jpg?v=1690854456&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/ComputerMouse.F01.2k.jpg?v=1690854456&width=950",
+        "model": ["Adjustable DPI", "USB-C Charging", "Dual Mode"],
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/ComputerMouse.B09.2k.jpg?v=1690854456&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/ComputerMouse.F01.2k.jpg?v=1690854456&width=950"
+        ],
+        "descriptionProduct": "The ELECTRO SonicMove SM5312 bluetooth mouse will have you clicking with confidence! With its reliable connection, you won’t have to worry about it skipping a beat. Plus, its sleek design adds serious style to any setup. Check out this compact, cutting-edge mouse today!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
       },
       {
         "id": 3,
-        "title": "ELECTRO SonicMove SM8953",
-        "price": "315.00",
-        "image": "../../../assets/images/CopperMouse.B05.2k.jpg",
-        "hoverImages": "../../../assets/images/CopperMouse.F16.2k.jpg"
+        "title": "ELECTRO SonicMove SM1698",
+        "price": "322.00",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/CopperMouse.B05.2k.jpg?v=1690854499&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/CopperMouse.F16.2k.jpg?v=1690854500&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/CopperMouse.B05.2k.jpg?v=1690854499&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/CopperMouse.F16.2k.jpg?v=1690854500&width=950"
+        ],
+        "descriptionProduct": "The ELECTRO SonicMove SM1698 bluetooth mouse will have you clicking with confidence! With its reliable connection, you won’t have to worry about it skipping a beat. Plus, its sleek design adds serious style to any setup. Check out this compact, cutting-edge mouse today!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
       },
       {
         "id": 4,
-        "title": "ELECTRO SonicMove SM8953",
-        "price": "315.00",
-        "image": "../../../assets/images/GreenMouse.B05.2k.jpg",
-        "hoverImages": "../../../assets/images/GreenMouse.G15.2k.jpg",
-        "model": ["Low Latency", "Battery-Powered", "2.4GHz"]
+        "title": "ELECTRO SonicMove SM1568",
+        "price": "322.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/GreenMouse.B05.2k.jpg?v=1690854643&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/GreenMouse.G15.2k.jpg?v=1690854644&width=950",
+        "model": ["Low Latency", "Battery-Powered", "2.4GHz"],
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/GreenMouse.B05.2k.jpg?v=1690854643&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/GreenMouse.G15.2k.jpg?v=1690854644&width=950"
+        ],
+        "descriptionProduct": "The ELECTRO SonicMove SM8527 bluetooth mouse will have you clicking with confidence! With its reliable connection, you won’t have to worry about it skipping a beat. Plus, its sleek design adds serious style to any setup. Check out this compact, cutting-edge mouse today!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
       },
       {
         "id": 5,
-        "title": "ELECTRO SonicMove SM8953",
-        "price": "315.00",
-        "image": "../../../assets/images/MouseWhite.B09.2k.jpg",
-        "hoverImages": "../../../assets/images/MouseWhite.F03.2k.jpg"
+        "title": "ELECTRO SonicMove SM8527",
+        "price": "322.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/MouseWhite.B09.2k.jpg?v=1690854682&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/MouseWhite.F03.2k.jpg?v=1690854682&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/MouseWhite.B09.2k.jpg?v=1690854682&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/MouseWhite.F03.2k.jpg?v=1690854682&width=950"
+        ],
+        "descriptionProduct": "The ELECTRO SonicMove SM8527 bluetooth mouse will have you clicking with confidence! With its reliable connection, you won’t have to worry about it skipping a beat. Plus, its sleek design adds serious style to any setup. Check out this compact, cutting-edge mouse today!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
       },
       {
         "id": 6,
-        "title": "ELECTRO SonicMove SM8953",
-        "price": "315.00",
-        "image": "../../../assets/images/Mouse.C09.2k.jpg",
-        "hoverImages": "../../../assets/images/Mouse.G13.2k.jpg",
-        "model": ["Adjustable DPI", "USB-C Charging", "Dual Mode"]
+        "title": "ELECTRO SonicMove SM5123",
+        "price": "322.00",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Mouse.C09.2k.jpg?v=1690854774&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Mouse.G13.2k.jpg?v=1690854774&width=950",
+        "model": ["Adjustable DPI", "USB-C Charging", "Dual Mode"],
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Mouse.C09.2k.jpg?v=1690854774&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Mouse.G13.2k.jpg?v=1690854774&width=950"
+        ],
+        "descriptionProduct": "The ELECTRO SonicMove SM5123 bluetooth mouse will have you clicking with confidence! With its reliable connection, you won’t have to worry about it skipping a beat. Plus, its sleek design adds serious style to any setup. Check out this compact, cutting-edge mouse today!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 7,
+        "title": "ELECTRO SonicMove SM3142",
+        "price": "322.00",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/WirelessMouse.B05.2k.jpg?v=1690856607&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/WirelessMouse.G15.2k.jpg?v=1690856607&width=950",
+        "model": ["Adjustable DPI", "USB-C Charging", "Dual Mode"],
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/WirelessMouse.B05.2k.jpg?v=1690856607&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/WirelessMouse.G15.2k.jpg?v=1690856607&width=950"
+        ],
+        "descriptionProduct": "The ELECTRO SonicMove SM3142 bluetooth mouse will have you clicking with confidence! With its reliable connection, you won’t have to worry about it skipping a beat. Plus, its sleek design adds serious style to any setup. Check out this compact, cutting-edge mouse today!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 8,
+        "title": "ELECTRO SonicMove SM2315",
+        "price": "322.00",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/OpticalMouse.B05.2k.jpg?v=1690854813&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/OpticalMouse.F09.2k.jpg?v=1690854812&width=950",
+        "model": ["Adjustable DPI", "USB-C Charging", "Dual Mode"],
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/OpticalMouse.B05.2k.jpg?v=1690854813&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/OpticalMouse.F09.2k.jpg?v=1690854812&width=950"
+        ],
+        "descriptionProduct": "The ELECTRO SonicMove SM2315 bluetooth mouse will have you clicking with confidence! With its reliable connection, you won’t have to worry about it skipping a beat. Plus, its sleek design adds serious style to any setup. Check out this compact, cutting-edge mouse today!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 9,
+        "title": "ELECTRO SonicMove SM4638",
+        "price": "322.00",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/MonochromeMouse.B05.2k.jpg?v=1690856223&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/MonochromeMouse.F15.2k.jpg?v=1690856223&width=950",
+        "model": ["Adjustable DPI", "USB-C Charging", "Dual Mode"],
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/MonochromeMouse.B05.2k.jpg?v=1690856223&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/MonochromeMouse.F15.2k.jpg?v=1690856223&width=950"
+        ],
+        "descriptionProduct": "The ELECTRO SonicMove SM4638 bluetooth mouse will have you clicking with confidence! With its reliable connection, you won’t have to worry about it skipping a beat. Plus, its sleek design adds serious style to any setup. Check out this compact, cutting-edge mouse today!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 10,
+        "title": "ELECTRO SonicMove SM5213",
+        "price": "322.00",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/GoldMouse.B05.2k.jpg?v=1690854576&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/GoldMouse.G15.2k.jpg?v=1690854576&width=950",
+        "model": ["Adjustable DPI", "USB-C Charging", "Dual Mode"],
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/GoldMouse.B05.2k.jpg?v=1690854576&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/GoldMouse.G15.2k.jpg?v=1690854576&width=950"
+        ],
+        "descriptionProduct": "The ELECTRO SonicMove SM8527 bluetooth mouse will have you clicking with confidence! With its reliable connection, you won’t have to worry about it skipping a beat. Plus, its sleek design adds serious style to any setup. Check out this compact, cutting-edge mouse today!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 11,
+        "title": "ELECTRO SonicMove SM5124",
+        "price": "322.00",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/OrangeMouse.B05.2k.jpg?v=1690856457&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/OrangeMouse.E09.2k.jpg?v=1690856457&width=950",
+        "model": ["Adjustable DPI", "USB-C Charging", "Dual Mode"],
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/OrangeMouse.B05.2k.jpg?v=1690856457&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/OrangeMouse.E09.2k.jpg?v=1690856457&width=950"
+        ],
+        "descriptionProduct": "The ELECTRO SonicMove SM3216 bluetooth mouse will have you clicking with confidence! With its reliable connection, you won’t have to worry about it skipping a beat. Plus, its sleek design adds serious style to any setup. Check out this compact, cutting-edge mouse today!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 12,
+        "title": "ELECTRO SonicMove SM3216",
+        "model": ["Fast Scrolling", "Solar-Powered", "Unifying Receiver"],
+        "price": "322.00",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/RedMouse.B05.2k.jpg?v=1690856486&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/RedMouse.G15.2k.jpg?v=1690856485&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/RedMouse.B05.2k.jpg?v=1690856486&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/RedMouse.G15.2k.jpg?v=1690856485&width=950"
+        ],
+        "descriptionProduct": "The ELECTRO SonicMove SM3216 bluetooth mouse will have you clicking with confidence! With its reliable connection, you won’t have to worry about it skipping a beat. Plus, its sleek design adds serious style to any setup. Check out this compact, cutting-edge mouse today!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 13,
+        "title": "ELECTRO SonicMove SM8212",
+        "price": "322.00",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/SilverMouse.C05.2k.jpg?v=1690856521&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/SilverMouse.D15.2k.jpg?v=1690856521&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/SilverMouse.C05.2k.jpg?v=1690856521&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/SilverMouse.D15.2k.jpg?v=1690856521&width=950"
+        ],
+        "descriptionProduct": "The ELECTRO SonicMove SM8212 bluetooth mouse will have you clicking with confidence! With its reliable connection, you won’t have to worry about it skipping a beat. Plus, its sleek design adds serious style to any setup. Check out this compact, cutting-edge mouse today!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 14,
+        "title": "ELECTRO SonicMove SM6821",
+        "model": ["Fast Scrolling", "Solar-Powered", "Unifying Receiver"],
+        "price": "322.00",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/ComputerMouseRemote.B09.2k.jpg?v=1690854420&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/ComputerMouseRemote.H01.2k.jpg?v=1690854420&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/ComputerMouseRemote.B09.2k.jpg?v=1690854420&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/ComputerMouseRemote.H01.2k.jpg?v=1690854420&width=950"
+        ],
+        "descriptionProduct": "The ELECTRO SonicMove SM6821 bluetooth mouse will have you clicking with confidence! With its reliable connection, you won’t have to worry about it skipping a beat. Plus, its sleek design adds serious style to any setup. Check out this compact, cutting-edge mouse today!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 15,
+        "title": "ELECTRO SonicMove SM1312",
+        "model": ["Adjustable DPI", "USB-C Charging", "Dual Mode"],
+        "price": "322.00",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/WhiteMouse.B05.2k.jpg?v=1690856553&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/WhiteMouse.F15.2k.jpg?v=1690856553&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/WhiteMouse.B05.2k.jpg?v=1690856553&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/WhiteMouse.F15.2k.jpg?v=1690856553&width=950"
+        ],
+        "descriptionProduct": "The ELECTRO SonicMove SM1312 bluetooth mouse will have you clicking with confidence! With its reliable connection, you won’t have to worry about it skipping a beat. Plus, its sleek design adds serious style to any setup. Check out this compact, cutting-edge mouse today!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 16,
+        "title": "ELECTRO SonicMove SM4124",
+        "model": ["Adjustable DPI", "USB-C Charging", "Dual Mode"],
+        "price": "322.00",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Mouse.B09.2k.jpg?v=1690856634&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Mouse.F03.2k.jpg?v=1690856634&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Mouse.B09.2k.jpg?v=1690856634&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Mouse.F03.2k.jpg?v=1690856634&width=950"
+        ],
+        "descriptionProduct": "The ELECTRO SonicMove SM4124 bluetooth mouse will have you clicking with confidence! With its reliable connection, you won’t have to worry about it skipping a beat. Plus, its sleek design adds serious style to any setup. Check out this compact, cutting-edge mouse today!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 17,
+        "title": "ELECTRO SonicMove SM5623",
+        "price": "322.00",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/OpticalMouse.B05.2k_54fd4f1d-dc38-449c-93c2-90b648eac83c.jpg?v=1690856657&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/OpticalMouse.F09.2k_402387ff-a24a-4aee-9f12-6a33535a1b31.jpg?v=1690856657&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/OpticalMouse.B05.2k_54fd4f1d-dc38-449c-93c2-90b648eac83c.jpg?v=1690856657&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/OpticalMouse.F09.2k_402387ff-a24a-4aee-9f12-6a33535a1b31.jpg?v=1690856657&width=950"
+        ],
+        "descriptionProduct": "The ELECTRO SonicMove SM4124 bluetooth mouse will have you clicking with confidence! With its reliable connection, you won’t have to worry about it skipping a beat. Plus, its sleek design adds serious style to any setup. Check out this compact, cutting-edge mouse today!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 18,
+        "title": "ELECTRO SonicMove SM8243",
+        "model": ["Fast Scrolling", "Solar-Powered", "Unifying Receiver"],
+        "price": "322.00",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/GamingComputerMouse.G01.2k.jpg?v=1690854553&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/GamingComputerMouse.G13.2k.jpg?v=1690854553&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/GamingComputerMouse.G01.2k.jpg?v=1690854553&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/GamingComputerMouse.G13.2k.jpg?v=1690854553&width=950"
+        ],
+        "descriptionProduct": "The ELECTRO SonicMove SM8243 bluetooth mouse will have you clicking with confidence! With its reliable connection, you won’t have to worry about it skipping a beat. Plus, its sleek design adds serious style to any setup. Check out this compact, cutting-edge mouse today!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 19,
+        "title": "ELECTRO SonicMove SM2136",
+        "price": "322.00",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Mouse.F16.2k.jpg?v=1690854709&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Mouse.G11.2k.jpg?v=1690854710&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Mouse.F16.2k.jpg?v=1690854709&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Mouse.G11.2k.jpg?v=1690854710&width=950"
+        ],
+        "descriptionProduct": "The ELECTRO SonicMove SM2136 bluetooth mouse will have you clicking with confidence! With its reliable connection, you won’t have to worry about it skipping a beat. Plus, its sleek design adds serious style to any setup. Check out this compact, cutting-edge mouse today!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
       }
     ],
     "microPhone": [
       {
         "id": 1,
         "title": "ELECTRO Microphone MR6868",
-        "price": "158.00 ",
-        "image": "../../../assets/images/Microphone.G05.2k.jpg",
-        "hoverImages": "../../../assets/images/Microphone.G03.2k.jpg",
-        "model": ["XLR", "Lavalier", "Low Noise"]
+        "model": ["XLR", "Lavalier", "Low Noise"],
+        "price": "162.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G05.2k.jpg?v=1690519584&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G03.2k.jpg?v=1690519584&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G05.2k.jpg?v=1690519584&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G03.2k.jpg?v=1690519584&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO microphone mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
       },
       {
         "id": 2,
         "title": "ELECTRO Microphone MR2938",
-        "price": "158.00 ",
-        "image": "../../../assets/images/Microphone.G01.2k.jpg",
-        "hoverImages": "../../../assets/images/Microphone.G15.2k.jpg",
-        "model": ["XLR", "Lavalier", "Low Noise"]
+        "price": "162.00",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G01.2k.jpg?v=1690519631&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G15.2k.jpg?v=1690519631&width=950",
+        "model": ["XLR", "Lavalier", "Low Noise"],
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G01.2k.jpg?v=1690519631&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G15.2k.jpg?v=1690519631&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO microphone mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
       },
       {
         "id": 3,
         "title": "ELECTRO Microphone MR3731",
-        "price": "158.00 ",
-        "image": "../../../assets/images/Condenser_20Microphone_20With_20Tripod.G09.2k.jpg",
-        "hoverImages": "../../../assets/images/Condenser_20Microphone_20With_20Tripod.G01.2k.jpg",
-        "model": ["XLR", "Lavalier", "Low Noise"]
+        "price": "162.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Condenser_20Microphone_20With_20Tripod.G09.2k.jpg?v=1690788149&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Condenser_20Microphone_20With_20Tripod.G01.2k.jpg?v=1690788149&width=950",
+        "model": ["XLR", "Lavalier", "Low Noise"],
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Condenser_20Microphone_20With_20Tripod.G09.2k.jpg?v=1690788149&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Condenser_20Microphone_20With_20Tripod.G01.2k.jpg?v=1690788149&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO microphone mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
       },
       {
         "id": 4,
         "title": "ELECTRO Microphone MR1892",
-        "price": "158.00 ",
-        "image": "../../../assets/images/Gold_20Microphone.G01.2k.jpg",
-        "hoverImages": "../../../assets/images/Gold_20Microphone.G03.2k.jpg",
-        "model": ["USB", "Handheld", "High-Fidelity"]
+        "price": "162.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Gold_20Microphone.G01.2k.jpg?v=1690788307&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Gold_20Microphone.G03.2k.jpg?v=1690788319&width=950",
+        "model": ["USB", "Handheld", "High-Fidelity"],
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Gold_20Microphone.G01.2k.jpg?v=1690788307&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Gold_20Microphone.G03.2k.jpg?v=1690788319&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO microphone mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
       },
       {
         "id": 5,
         "title": "ELECTRO Microphone MR2846",
-        "price": "158.00 ",
-        "image": "../../../assets/images/Gold_20Microphone.G03.2k-2.jpg",
-        "hoverImages": "../../../assets/images/Gold_20Microphone.B03.2k.jpg",
-        "model": ["USB", "Handheld", "High-Fidelity"]
+        "price": "162.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Gold_20Microphone.G03.2k-2.jpg?v=1690788390&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Gold_20Microphone.B03.2k.jpg?v=1690788390&width=950",
+        "model": ["USB", "Handheld", "High-Fidelity"],
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Gold_20Microphone.G03.2k-2.jpg?v=1690788390&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Gold_20Microphone.B03.2k.jpg?v=1690788390&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO microphone mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
       },
       {
         "id": 6,
         "title": "ELECTRO Microphone MR1628",
-        "price": "158.00 ",
-        "image": "../../../assets/images/Golden_20Microphone.G03.2k.jpg",
-        "hoverImages": "../../../assets/images/Golden_20Microphone.C06.2k.jpg",
-        "model": ["XLR", "Lavalier", "Low Noise"]
+        "price": "162.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Golden_20Microphone.G03.2k.jpg?v=1690873804&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Golden_20Microphone.C06.2k.jpg?v=1690873804&width=950",
+        "model": ["XLR", "Lavalier", "Low Noise"],
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Golden_20Microphone.G03.2k.jpg?v=1690873804&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Golden_20Microphone.C06.2k.jpg?v=1690873804&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO microphone mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 7,
+        "title": "ELECTRO Microphone MR1245",
+        "price": "162.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G01.2k-6.jpg?v=1690788527&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G01.2k_19ce9218-f2c3-4054-855e-f262861a54c9.jpg?v=1690788540&width=950",
+        "model": ["Wireless", "Desktop", "Wide Frequency Response"],
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G01.2k-6.jpg?v=1690788527&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G01.2k_19ce9218-f2c3-4054-855e-f262861a54c9.jpg?v=1690788540&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO microphone mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 8,
+        "title": "ELECTRO Microphone MR6382",
+        "price": "162.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone_20Sculpture.G01.2k.jpg?v=1690788624&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone_20Sculpture.G03.2k.jpg?v=1690788624&width=950",
+        "model": ["USB", "Handheld", "High-Fidelity"],
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone_20Sculpture.G01.2k.jpg?v=1690788624&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone_20Sculpture.G03.2k.jpg?v=1690788624&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO microphone mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 9,
+        "title": "ELECTRO Microphone MR2698",
+        "price": "162.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone_20White.O13.2k.jpg?v=1690788650&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone_20White.G03.2k.jpg?v=1690788650&width=950",
+        "model": ["USB", "Handheld", "High-Fidelity"],
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone_20White.O13.2k.jpg?v=1690788650&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone_20White.G03.2k.jpg?v=1690788650&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO microphone mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 10,
+        "title": "ELECTRO Microphone MR1689",
+        "price": "162.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Radio_20Microphone.F01.2k.jpg?v=1690788699&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Radio_20Microphone.F04.2k.jpg?v=1690788699&width=950",
+        "model": ["Wireless", "Desktop", "Wide Frequency Response"],
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Radio_20Microphone.F01.2k.jpg?v=1690788699&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Radio_20Microphone.F04.2k.jpg?v=1690788699&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO microphone mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie! This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 11,
+        "title": "ELECTRO Microphone MR4263",
+        "price": "162.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Reporter_20Microphone.G01.2k.jpg?v=1690788724&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Reporter_20Microphone.G03.2k.jpg?v=1690788724&width=950",
+        "model": ["XLR", "Lavalier", "Low Noise"],
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Reporter_20Microphone.G01.2k.jpg?v=1690788724&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Reporter_20Microphone.G03.2k.jpg?v=1690788724&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO microphone mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 12,
+        "title": "ELECTRO Microphone MR1906",
+        "price": "162.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Streaming_20Microphone_20Red.G01.2k.jpg?v=1690788753&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Streaming_20Microphone_20Red.G03.2k.jpg?v=1690788754&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Streaming_20Microphone_20Red.G01.2k.jpg?v=1690788753&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Streaming_20Microphone_20Red.G03.2k.jpg?v=1690788754&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO microphone mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 13,
+        "title": "ELECTRO Microphone MR1689",
+        "price": "162.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Studio_20Microphone.G03.2k.jpg?v=1690788776&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Studio_20Microphone.G05.2k.jpg?v=1690788776&width=950",
+        "model": ["USB", "Handheld", "High-Fidelity"],
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Studio_20Microphone.G03.2k.jpg?v=1690788776&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Studio_20Microphone.G05.2k.jpg?v=1690788776&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO microphone mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 14,
+        "title": "ELECTRO Microphone MR4723",
+        "price": "162.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Vintage_20Microphone.G02.2k.jpg?v=1690788858&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Vintage_20Microphone.G13.2k.jpg?v=1690788858&width=950",
+        "model": ["USB", "Handheld", "High-Fidelity"],
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Vintage_20Microphone.G02.2k.jpg?v=1690788858&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Vintage_20Microphone.G13.2k.jpg?v=1690788858&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO microphone mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 15,
+        "title": "ELECTRO Microphone MR2125",
+        "price": "162.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Vintage_20Microphone.G03.2k.jpg?v=1690788884&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Vintage_20Microphone.H13.2k.jpg?v=1690788900&width=950",
+        "model": ["XLR", "Lavalier", "Low Noise"],
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Vintage_20Microphone.G03.2k.jpg?v=1690788884&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Vintage_20Microphone.H13.2k.jpg?v=1690788900&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO microphone mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 16,
+        "title": "ELECTRO Microphone MR1563",
+        "price": "162.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Condenser_20Microphone.G01.2k-2.jpg?v=1690788943&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Condenser_20Microphone.G03.2k-3.jpg?v=1690788994&width=950",
+        "model": ["USB", "Handheld", "High-Fidelity"],
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Condenser_20Microphone.G01.2k-2.jpg?v=1690788943&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Condenser_20Microphone.G03.2k-3.jpg?v=1690788994&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO microphone mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 17,
+        "title": "ELECTRO Microphone MR2512",
+        "price": "162.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Condenser_20Microphone.G01.2k.jpg?v=1690789097&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Condenser_20Microphone.G03.2k.jpg?v=1690789116&width=950",
+        "model": ["Wireless", "Desktop", "Wide Frequency Response"],
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Condenser_20Microphone.G01.2k.jpg?v=1690789097&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Condenser_20Microphone.G03.2k.jpg?v=1690789116&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO microphone mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 18,
+        "title": "ELECTRO Microphone MR1689",
+        "price": "162.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Condenser_20Microphone.G05.2k.jpg?v=1690789156&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Condenser_20Microphone.G03.2k-2.jpg?v=1690789156&width=950",
+        "model": ["Wireless", "Desktop", "Wide Frequency Response"],
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Condenser_20Microphone.G05.2k.jpg?v=1690789156&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Condenser_20Microphone.G03.2k-2.jpg?v=1690789156&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO microphone mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 19,
+        "title": "ELECTRO Microphone MR2415",
+        "price": "162.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Condenser_20Microphone.H09.2k.jpg?v=1690794539&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Condenser_20Microphone.G03.2k-4.jpg?v=1690794539&width=950",
+        "model": ["Wireless", "Desktop", "Wide Frequency Response"],
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Condenser_20Microphone.H09.2k.jpg?v=1690794539&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Condenser_20Microphone.G03.2k-4.jpg?v=1690794539&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO microphone mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 20,
+        "title": "ELECTRO Microphone MR8942",
+        "price": "162.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Condenser_20Microphone.G07.2k.jpg?v=1690789228&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Condenser_20Microphone.G09.2k.jpg?v=1690789243&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Condenser_20Microphone.G07.2k.jpg?v=1690789228&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Condenser_20Microphone.G09.2k.jpg?v=1690789243&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO microphone mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 21,
+        "title": "ELECTRO Microphone MR8562",
+        "model": ["USB", "Handheld", "High-Fidelity"],
+        "price": "162.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G01.2k-2.jpg?v=1690789541&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G03.2k-3.jpg?v=1690789541&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G01.2k-2.jpg?v=1690789541&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G03.2k-3.jpg?v=1690789541&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO microphone mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 22,
+        "title": "ELECTRO Microphone MR7524",
+        "price": "162.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G01.2k-3.jpg?v=1690792410&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G01.2k-3.jpg?v=1690792410&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G01.2k-3.jpg?v=1690792410&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G01.2k-3.jpg?v=1690792410&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO microphone mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 23,
+        "title": "ELECTRO Microphone MR2537",
+        "model": ["XLR", "Lavalier", "Low Noise"],
+        "price": "162.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.H12.2k.jpg?v=1690794279&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G03.2k-5.jpg?v=1690794279&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.H12.2k.jpg?v=1690794279&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G03.2k-5.jpg?v=1690794279&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO microphone mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 24,
+        "title": "ELECTRO Microphone MR3513",
+        "model": ["Wireless", "Desktop", "Wide Frequency Response"],
+        "price": "162.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G01.2k-5.jpg?v=1690794404&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G03.2k-6.jpg?v=1690794404&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G01.2k-5.jpg?v=1690794404&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G03.2k-6.jpg?v=1690794404&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO microphone mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 25,
+        "title": "ELECTRO Microphone MR5424",
+        "model": ["Wireless", "Desktop", "Wide Frequency Response"],
+        "price": "162.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G01.2k-7.jpg?v=1690794578&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G03.2k-10.jpg?v=1690794592&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G01.2k-7.jpg?v=1690794578&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G03.2k-10.jpg?v=1690794592&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO microphone mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 26,
+        "title": "ELECTRO Microphone MR6424",
+        "price": "162.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.H01.2k.jpg?v=1690794719&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G03.2k-8.jpg?v=1690794719&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.H01.2k.jpg?v=1690794719&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G03.2k-8.jpg?v=1690794719&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO microphone mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 27,
+        "title": "ELECTRO Microphone MR1253",
+        "model": ["XLR", "Lavalier", "Low Noise"],
+        "price": "162.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.H03.2k-2.jpg?v=1690794816&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G02.2k-2.jpg?v=1690794816&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.H03.2k-2.jpg?v=1690794816&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G02.2k-2.jpg?v=1690794816&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO microphone mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 28,
+        "title": "ELECTRO Microphone MR1253",
+        "model": ["USB", "Handheld", "High-Fidelity"],
+        "price": "162.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G09.2k.jpg?v=1690794856&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G05.2k_f76b9342-d363-4ec9-bd8c-9a34a1078bfd.jpg?v=1690794856&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G09.2k.jpg?v=1690794856&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G05.2k_f76b9342-d363-4ec9-bd8c-9a34a1078bfd.jpg?v=1690794856&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO microphone mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 29,
+        "title": "ELECTRO Microphone MR6423",
+        "model": ["XLR", "Lavalier", "Low Noise"],
+        "price": "162.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G02.2k.jpg?v=1690795052&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.H08.2k.jpg?v=1690795052&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G02.2k.jpg?v=1690795052&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.H08.2k.jpg?v=1690795052&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO microphone mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 30,
+        "title": "ELECTRO Microphone MR9742",
+        "model": ["USB", "Handheld", "High-Fidelity"],
+        "price": "162.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone_20On_20Stand.G01.2k.jpg?v=1690795187&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone_20On_20Stand.G03.2k-2.jpg?v=1690795187&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone_20On_20Stand.G01.2k.jpg?v=1690795187&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone_20On_20Stand.G03.2k-2.jpg?v=1690795187&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO microphone mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 31,
+        "title": "ELECTRO Microphone MR8632",
+        "model": ["XLR", "Lavalier", "Low Noise"],
+        "price": "162.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone_20On_20Stand.H13.2k.jpg?v=1690795246&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone_20On_20Stand.G03.2k.jpg?v=1690795246&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone_20On_20Stand.H13.2k.jpg?v=1690795246&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone_20On_20Stand.G03.2k.jpg?v=1690795246&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO microphone mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 32,
+        "title": "ELECTRO Microphone MR3683",
+        "price": "162.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Retro_20Microphone.G01.2k.jpg?v=1690795298&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Retro_20Microphone.G03.2k.jpg?v=1690795306&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Retro_20Microphone.G01.2k.jpg?v=1690795298&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Retro_20Microphone.G03.2k.jpg?v=1690795306&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO microphone mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 33,
+        "title": "ELECTRO Microphone MR4652",
+        "model": ["Wireless", "Desktop", "Wide Frequency Response"],
+        "price": "162.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Retro_20microphone.H01.2k.jpg?v=1690795383&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Retro_20microphone.G05.2k-2.jpg?v=1690795395&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Retro_20microphone.H01.2k.jpg?v=1690795383&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Retro_20microphone.G05.2k-2.jpg?v=1690795395&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO microphone mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 34,
+        "title": "ELECTRO Microphone MR3513",
+        "price": "162.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone_20Black.G01.2k.jpg?v=1690797263&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone_20Black.G03.2k.jpg?v=1690797263&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone_20Black.G01.2k.jpg?v=1690797263&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone_20Black.G03.2k.jpg?v=1690797263&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO microphone mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 35,
+        "title": "ELECTRO Microphone MR4234",
+        "price": "162.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.H09.2k.jpg?v=1690796748&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G03.2k-7.jpg?v=1690796748&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.H09.2k.jpg?v=1690796748&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G03.2k-7.jpg?v=1690796748&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO microphone mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
+      },
+      {
+        "id": 36,
+        "title": "ELECTRO Microphone MR8703",
+        "model": ["Wireless", "Desktop", "Wide Frequency Response"],
+        "price": "162.00 ",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G13.2k.jpg?v=1690797059&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G16.2k.jpg?v=1690797068&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G13.2k.jpg?v=1690797059&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Microphone.G16.2k.jpg?v=1690797068&width=950"
+        ],
+        "descriptionProduct": "Bring the party wherever you go with our ELECTRO microphone mini wireless speaker! This colorful wonder is perfect for your next shindig, allowing you to blast out good vibes with the press of a button. Set the stage for a legendary night with the WaveJive's beats and get ready to boogie!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
       }
     ]
   },
