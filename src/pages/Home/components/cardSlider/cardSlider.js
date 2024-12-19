@@ -1,9 +1,9 @@
-import { useState } from "react";
 import HoverImage from "../HoverImage";
 import style from "./component-style.module.scss";
 import classNames from "classnames/bind";
 import Btn_Pre_Next from "../../../../components/UI/Button";
 import IdxObject from "../../../../components/UI/smallItem/idxObject";
+import HandleToggle from "../../../../components/UI/Toggle/handleToogle";
 function CardSlider({ products }) {
   const CP = classNames.bind(style);
   const totalCards = 2;
@@ -11,12 +11,7 @@ function CardSlider({ products }) {
     console.log("error");
   }
   const { handlePrev, handleNext, currentIndex } = Btn_Pre_Next(totalCards);
-  const [selectProduct, setSelectProduct] = useState(null);
-  const [isToggle, setIsToggle] = useState(false);
-  const handleToggle = (product) => {
-    setSelectProduct(product);
-    setIsToggle((prev) => !prev);
-  };
+  const { selectProduct, isToggle, handleToggle } = HandleToggle();
   return (
     <div>
       {isToggle && <IdxObject product={selectProduct} />}
