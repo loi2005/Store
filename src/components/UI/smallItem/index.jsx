@@ -22,9 +22,7 @@ function SmallItem({ product }) {
   const handleShow = () => {
     setShowItem(false);
   };
-  /// exchange object to array
   if (!product) return null;
-
   return (
     showItem && (
       <div className={cx("container")}>

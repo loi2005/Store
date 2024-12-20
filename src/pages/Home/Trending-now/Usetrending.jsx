@@ -1,21 +1,19 @@
 import { useState } from "react";
 import HoverImage from "../components/HoverImage";
 import classNames from "classnames/bind";
-//scss
 import style from "./trending.module.scss";
 import btn from "../../../components/UI/btn.module.scss";
 import CPstyle from "../components/cardSlider/component-style.module.scss";
-// scss
-/// json
 import { UseFetch, Promos } from "../../../services/api";
 import Handle from "../components/Handle";
 import Btn_Pre_Next from "../../../components/UI/Button";
-//smaal itme
 import SmallItem from "../../../components/UI/smallItem";
+import HandleToggle from "../../../components/UI/Toggle/handleToogle";
 const cx = classNames.bind(style);
 const CP = classNames.bind(CPstyle);
 function UseTrending() {
   const [hoverColor, setHoverColor] = useState("");
+  const { selectProduct, isToggle, handleToggle } = HandleToggle();
   const { products } = UseFetch("/assets/products.json");
   const { promos } = Promos("/assets/promo.json");
   const { handleColor, selectedColor, currentImage } = Handle();
@@ -23,13 +21,7 @@ function UseTrending() {
   const { handlePrev, handleNext, currentIndex } = Btn_Pre_Next(totalCards);
   const promo1 = promos.promo1;
   const promo2 = promos.promo2;
-  //smll item
-  const [selectProduct, setSelectProduct] = useState(null);
-  const [isToggle, setIsToggle] = useState(false);
-  const handleToggle = (product) => {
-    setSelectProduct(product);
-    setIsToggle((prev) => !prev);
-  };
+
   const colorNames = {
     "#ffc0cb": "Pink",
     "#ee82ee": "Violet",
@@ -41,13 +33,10 @@ function UseTrending() {
     "#008000": "Green",
     "#0000ff": "Blue",
   };
-
-  //
   if (!promos || !promo1 || !promo2) {
     console.log("don't load....");
     return <div>Loading...</div>;
   }
-
   return (
     <div className={CP("content")}>
       <div className={CP("heading")}>

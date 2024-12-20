@@ -1,29 +1,87 @@
 import style from "./collection.module.scss";
-import { useLocation } from "react-router-dom";
+import { useLocation, useNavigate } from "react-router-dom";
 import classNames from "classnames/bind";
-import { TailSpin } from "react-loader-spinner";
+import { useState, useEffect } from "react";
 import HoverImage from "../Home/components/HoverImage";
 import { Link } from "react-router-dom";
 import HandleToggle from "../../components/UI/Toggle/handleToogle";
 import IdxObject from "../../components/UI/smallItem/idxObject";
+import PaginationControl from "../../components/UI/Pagination/PaginationControl";
+
 function Collection() {
   const location = useLocation();
+  const navigate = useNavigate();
   const { selectProduct, isToggle, handleToggle, setLayout, layout } =
     HandleToggle();
-  const { products, categoryName } = location.state || {};
+
+  // Lấy dữ liệu từ localStorage hoặc state (truyền từ trang trước)
+  const storedProducts = localStorage.getItem("products");
+  const storedCategoryName = localStorage.getItem("categoryName");
+
+  const [products, setProducts] = useState(
+    storedProducts ? JSON.parse(storedProducts) : location.state?.products || []
+  );
+  const [categoryName, setCategoryName] = useState(
+    storedCategoryName || location.state?.categoryName || ""
+  );
+
+  // Lưu vào localStorage khi sản phẩm và tên danh mục thay đổi
+  useEffect(() => {
+    if (products.length > 0 && categoryName) {
+      localStorage.setItem("products", JSON.stringify(products));
+      localStorage.setItem("categoryName", categoryName);
+    }
+  }, [products, categoryName]);
+
+  // Khởi tạo className với classNames
   const cx = classNames.bind(style);
-  const amount = () => {
-    if (products && products.length > 0) return products.length;
+
+  // Quản lý phân trang
+  const [currentPage, setCurrentPage] = useState(1);
+  const itemsPerPage = 16;
+  const startIndex = (currentPage - 1) * itemsPerPage;
+  const currentPageProducts = products.slice(
+    startIndex,
+    startIndex + itemsPerPage
+  );
+  const totalItems = products.length;
+
+  const handlePageChange = (page) => {
+    setCurrentPage(page);
   };
+
+  // Reset lại trang phân trang khi chuyển sang trang khác
+  useEffect(() => {
+    setCurrentPage(1); // Reset lại trang về 1 khi dữ liệu sản phẩm thay đổi
+  }, [products]);
+
+  // Điều hướng về trang trước hoặc sản phẩm được chọn
+  useEffect(() => {
+    if (location.state?.products && location.state?.categoryName) {
+      setProducts(location.state.products);
+      setCategoryName(location.state.categoryName);
+    }
+  }, [location]);
+
   return (
     <div className={cx("container")}>
+      {/* Phân trang */}
+      <PaginationControl
+        totalItems={totalItems}
+        itemsPerPage={itemsPerPage}
+        onPageChange={handlePageChange}
+      />
+
+      {/* Hiển thị sản phẩm đã chọn nếu toggle */}
       {isToggle && <IdxObject product={selectProduct} />}
+
       <div className={cx("heading")}>
         <p className={cx("caption")}>{categoryName}</p>
       </div>
+
       <div className={cx("content")}>
         <div className={cx("content-heading")}>
-          <div className={cx("amount")}>{amount()} Products</div>
+          <div className={cx("amount")}>{totalItems} Products</div>
           <div className={cx("option")}>
             <label>default</label>
           </div>
@@ -42,22 +100,25 @@ function Collection() {
             ></i>
           </div>
         </div>
-        {products && products.length > 0 ? (
+
+        {products.length === 0 ? (
+          <div className={cx("no-products")}>No products available.</div>
+        ) : (
           <div className={cx("container_products")}>
             <div className={cx("filter")}>
-              <p>sdfsdf</p>
+              <p>Filter options will go here.</p>
             </div>
             <ul className={cx("listItem")}>
               <div
                 className={cx("display-product", {
                   grid_layout: layout === "grid",
-                  list_Layout: layout === "list",
+                  list_layout: layout === "list",
                 })}
               >
-                {products.map((product, index) => (
+                {currentPageProducts.map((product, index) => (
                   <li key={index} className={cx("item")}>
                     <div className={cx("image")}>
-                      <Link className={cx("link")}>
+                      <Link to="#" className={cx("link")}>
                         <HoverImage
                           defaultImage={product.image}
                           hoverImage={product.hoverImages || product.image}
@@ -68,7 +129,7 @@ function Collection() {
                           onClick={() => handleToggle(product)}
                           className={cx("bx bx-show-alt", "icon")}
                         ></i>
-                        <i className={cx("bx bx-shopping-bag ", "icon")}></i>
+                        <i className={cx("bx bx-shopping-bag", "icon")}></i>
                       </div>
                     </div>
                     <div className={cx("detail")}>
@@ -78,8 +139,8 @@ function Collection() {
                       <p>{product.price}</p>
                       <div className={cx("models")}>
                         {product.model &&
-                          product.model.map((item, index) => (
-                            <p className={cx("model")} key={index}>
+                          product.model.map((item, idx) => (
+                            <p className={cx("model")} key={idx}>
                               {item}
                             </p>
                           ))}
@@ -91,20 +152,10 @@ function Collection() {
               </div>
             </ul>
           </div>
-        ) : (
-          <div className={cx("overlay")}>
-            <div className={cx("spinner")}>
-              <TailSpin
-                height="80"
-                width="80"
-                color="#fff"
-                ariaLabel="loading-spinner"
-              />
-            </div>
-          </div>
         )}
       </div>
     </div>
   );
 }
+
 export default Collection;

@@ -37,7 +37,7 @@ function DropDownList() {
     const categoryProducts = goods[categoryName];
     setIsNavigating(true);
     const timer = setTimeout(() => {
-      navigate("/collection", {
+      navigate(`/collection/${categoryName}`, {
         state: { products: categoryProducts, categoryName },
       });
     }, 3000);

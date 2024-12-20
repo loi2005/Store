@@ -7,7 +7,10 @@
         "price": "288.00  ",
         "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Amplifier_20Cabinet_20And_20Electric_20Guitar.H01.2k.jpg?v=1690517734&width=950",
         "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Amplifier_20Cabinet_20And_20Electric_20Guitar.H03.2k.jpg?v=1690517734&width=950",
-        "totalProduct": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Amplifier_20Cabinet_20And_20Electric_20Guitar.H14.2k.jpg?v=1690517734&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Amplifier_20Cabinet_20And_20Electric_20Guitar.H01.2k.jpg?v=1690517734&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Amplifier_20Cabinet_20And_20Electric_20Guitar.H14.2k.jpg?v=1690517734&width=950"
+        ],
         "model": ["RCA Inputs", "Rack-Mountable", "Class D", "Low Distortion"],
         "descriptionProduct": "Take your tunes to new heights with ELECTRO Guitar Amplifier SKB2561, the ultimate Bluetooth earphone! With top-of-the-line sound quality, waterproof durability, and noise cancelling technology, they're the perfect companion for your air travel adventures. (Think of them as your own personal jet-setting DJ!) So hit the skies and blast off with SkyBuds SKB2567!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
       },
@@ -17,7 +20,10 @@
         "price": "288.00  ",
         "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Guitar_20Amplifier.G03.2k-2.jpg?v=1690517781&width=950",
         "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Guitar_20Amplifier.G03.2k.jpg?v=1690517781&width=950",
-        "totalProduct": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Guitar_20Amplifier.H01.2k.jpg?v=1690517780&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Guitar_20Amplifier.G03.2k-2.jpg?v=1690517781&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Guitar_20Amplifier.H01.2k.jpg?v=1690517780&width=950"
+        ],
         "model": ["Wi-Fi", "Portable", "Class A/B", "Low Distortion"],
         "descriptionProduct": "Take your tunes to new heights with ELECTRO Guitar Amplifier SKB2565, the ultimate Bluetooth earphone! With top-of-the-line sound quality, waterproof durability, and noise cancelling technology, they're the perfect companion for your air travel adventures. (Think of them as your own personal jet-setting DJ!) So hit the skies and blast off with SkyBuds SKB2567!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
       },
@@ -28,6 +34,7 @@
         "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/New_20Power_20Amplifier.G03.2k.jpg?v=1690517842&width=950",
         "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/New_20Power_20Amplifier.G09.2k.jpg?v=1690517843&width=950",
         "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/New_20Power_20Amplifier.G03.2k.jpg?v=1690517842&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/New_20Power_20Amplifier.H01.2k.jpg?v=1690517843&width=950"
         ],
         "model": ["RCA Inputs", "Rack-Mountable", "Class D", "Low Distortion"],
@@ -39,7 +46,10 @@
         "price": "288.00  ",
         "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Bass_20Amplifier.G01.2k.jpg?v=1690517868&width=950",
         "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Bass_20Amplifier.G03.2k.jpg?v=1690517867&width=950",
-        "totalProduct": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Bass_20Amplifier.G10.2k.jpg?v=1690517868&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Bass_20Amplifier.G01.2k.jpg?v=1690517868&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Bass_20Amplifier.G10.2k.jpg?v=1690517868&width=950"
+        ],
         "model": ["Wi-Fi", "Portable", "Class A/B", "Low Distortion"],
         "descriptionProduct": "Take your tunes to new heights with ELECTRO Bass Amplifier SKB2511, the ultimate Bluetooth earphone! With top-of-the-line sound quality, waterproof durability, and noise cancelling technology, they're the perfect companion for your air travel adventures. (Think of them as your own personal jet-setting DJ!) So hit the skies and blast off with SkyBuds SKB2567!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
       },
@@ -73,7 +83,10 @@
         "price": "288.00  ",
         "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Vintage_20Military_20Amplifier.G01.2k.jpg?v=1690518465&width=950",
         "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Vintage_20Military_20Amplifier.G03.2k.jpg?v=1690518464&width=950",
-        "totalProduct": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Vintage_20Military_20Amplifier.H09.2k.jpg?v=1690518464&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Vintage_20Military_20Amplifier.G01.2k.jpg?v=1690518465&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Vintage_20Military_20Amplifier.H09.2k.jpg?v=1690518464&width=950"
+        ],
         "model": ["Bluetooth", "Compact", "Class D", "High-Fidelity"],
         "descriptionProduct": "Take your tunes to new heights with ELECTRO Vintage Military Amplifier SKB2560, the ultimate Bluetooth earphone! With top-of-the-line sound quality, waterproof durability, and noise cancelling technology, they're the perfect companion for your air travel adventures. (Think of them as your own personal jet-setting DJ!) So hit the skies and blast off with SkyBuds SKB2567!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
       },
@@ -83,7 +96,10 @@
         "price": "288.00  ",
         "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Electric_20Guitar_20And_20Amp.G03.2k.jpg?v=1690518588&width=950",
         "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Electric_20Guitar_20And_20Amp.G05.2k.jpg?v=1690518588&width=950",
-        "totalProduct": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Electric_20Guitar_20And_20Amp.G13.2k.jpg?v=1690518588&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Electric_20Guitar_20And_20Amp.G03.2k.jpg?v=1690518588&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Electric_20Guitar_20And_20Amp.G13.2k.jpg?v=1690518588&width=950"
+        ],
         "model": ["RCA Inputs", "Rack-Mountable", "Class D", "Low Distortion"],
         "descriptionProduct": "Take your tunes to new heights with ELECTRO Amplifier Cabinet And Electric Guitar SKB2566, the ultimate Bluetooth earphone! With top-of-the-line sound quality, waterproof durability, and noise cancelling technology, they're the perfect companion for your air travel adventures. (Think of them as your own personal jet-setting DJ!) So hit the skies and blast off with SkyBuds SKB2567!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
       },
@@ -93,7 +109,10 @@
         "price": "288.00  ",
         "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Radio_20Direction_20Finder_20Antenna_20with_20Amplifier.G03.2k.jpg?v=1690518648&width=950",
         "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Radio_20Direction_20Finder_20Antenna_20with_20Amplifier.H01.2k.jpg?v=1690518647&width=950",
-        "totalProduct": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Radio_20Direction_20Finder_20Antenna_20with_20Amplifier.H09.2k.jpg?v=1690518648&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Radio_20Direction_20Finder_20Antenna_20with_20Amplifier.G03.2k.jpg?v=1690518648&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Radio_20Direction_20Finder_20Antenna_20with_20Amplifier.H09.2k.jpg?v=1690518648&width=950"
+        ],
         "model": ["Bluetooth", "Compact", "Class D", "High-Fidelity"],
         "descriptionProduct": "Take your tunes to new heights with ELECTRO Radio Direction Finder Antenna with Amplifier SKB2523, the ultimate Bluetooth earphone! With top-of-the-line sound quality, waterproof durability, and noise cancelling technology, they're the perfect companion for your air travel adventures. (Think of them as your own personal jet-setting DJ!) So hit the skies and blast off with SkyBuds SKB2567!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
       },
@@ -118,7 +137,11 @@
         "price": "288.00  ",
         "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/PAM8403_20So_2016_20Stereo_20Digital_20Audio_20Amplifier.G01.2k.jpg?v=1690518800&width=950",
         "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/PAM8403_20So_2016_20Stereo_20Digital_20Audio_20Amplifier.G03.2k.jpg?v=1690518800&width=950",
-        "totalProduct": "https://electro-audio-demo.myshopify.com/cdn/shop/files/PAM8403_20So_2016_20Stereo_20Digital_20Audio_20Amplifier.H05.2k.jpg?v=1690518801&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/PAM8403_20So_2016_20Stereo_20Digital_20Audio_20Amplifier.G01.2k.jpg?v=1690518800&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/PAM8403_20So_2016_20Stereo_20Digital_20Audio_20Amplifier.G01.2k.jpg?v=1690518800&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/PAM8403_20So_2016_20Stereo_20Digital_20Audio_20Amplifier.H05.2k.jpg?v=1690518801&width=950"
+        ],
         "model": ["RCA Inputs", "Rack-Mountable", "Class D", "Low Distortion"],
         "descriptionProduct": "Take your tunes to new heights with ELECTRO Stereo Digital Audio Amplifier SKB2522, the ultimate Bluetooth earphone! With top-of-the-line sound quality, waterproof durability, and noise cancelling technology, they're the perfect companion for your air travel adventures. (Think of them as your own personal jet-setting DJ!) So hit the skies and blast off with SkyBuds SKB2567!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
       },
@@ -128,7 +151,11 @@
         "price": "288.00  ",
         "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Black_20Knob.H03.2k.jpg?v=1690518825&width=950",
         "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Red_20Knob.H03.2k.jpg?v=1690518825&width=950",
-        "totalProduct": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Red_20Knob.H03.2k.jpg?v=1690518825&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Black_20Knob.H03.2k.jpg?v=1690518825&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Black_20Knob.H03.2k.jpg?v=1690518825&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Red_20Knob.H03.2k.jpg?v=1690518825&width=950"
+        ],
         "colors": ["#000000", "#ff0000"],
         "descriptionProduct": "Take your tunes to new heights with ELECTRO Stereo Digital Audio Amplifier SKB2522, the ultimate Bluetooth earphone! With top-of-the-line sound quality, waterproof durability, and noise cancelling technology, they're the perfect companion for your air travel adventures. (Think of them as your own personal jet-setting DJ!) So hit the skies and blast off with SkyBuds SKB2567!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
       },
@@ -138,7 +165,10 @@
         "price": "288.00  ",
         "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/New_20Power_20Amplifier.G03.2k_1985035b-9851-43e8-9582-ac4a2c30f25b.jpg?v=1690519141&width=950",
         "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/New_20Power_20Amplifier.G09.2k_6e473068-c7f6-4075-ae03-d7c449bd5608.jpg?v=1690519141&width=950",
-        "totalProduct": "https://electro-audio-demo.myshopify.com/cdn/shop/files/New_20Power_20Amplifier.H01.2k_6f549297-3f31-46e1-a044-e0447861dfd2.jpg?v=1690519141&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/New_20Power_20Amplifier.G03.2k_1985035b-9851-43e8-9582-ac4a2c30f25b.jpg?v=1690519141&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/New_20Power_20Amplifier.H01.2k_6f549297-3f31-46e1-a044-e0447861dfd2.jpg?v=1690519141&width=950"
+        ],
         "descriptionProduct": "Fly high-end style with ELECTRO Power Booster SKB2569 - bluetooth earphones with an original design. Bring chic fashion flair to your audio with a design that turns heads and a battery life that will keep you jamming all day long! Seriously, what are you waiting for? It's time to soar!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
       },
       {
@@ -147,7 +177,10 @@
         "price": "288.00  ",
         "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Guitar_20Amplifier.G03.2k_6682b500-432e-448c-8b9a-8179c9534ea3.jpg?v=1690519000&width=950",
         "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Guitar_20Amplifier.I01.2k.jpg?v=1690519000&width=950",
-        "totalProduct": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Guitar_20Amplifier.I11.2k.jpg?v=1690519000&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Guitar_20Amplifier.G03.2k_6682b500-432e-448c-8b9a-8179c9534ea3.jpg?v=1690519000&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Guitar_20Amplifier.I11.2k.jpg?v=1690519000&width=950"
+        ],
         "descriptionProduct": "Fly high-end style with ELECTRO Electric Guitar And Amp SKB1549 - bluetooth earphones with an original design. Bring chic fashion flair to your audio with a design that turns heads and a battery life that will keep you jamming all day long! Seriously, what are you waiting for? It's time to soar!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
       },
       {
@@ -156,7 +189,10 @@
         "price": "288.00  ",
         "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/XLR_20Female_20Connector_20with_20Cable.G03.2k.jpg?v=1690528720&width=950",
         "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/XLR_20Female_20Connector_20with_20Cable.G01.2k.jpg?v=1690528720&width=950",
-        "totalProduct": "https://electro-audio-demo.myshopify.com/cdn/shop/files/XLR_20Female_20Connector_20with_20Cable.G05.2k.jpg?v=1690519056&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/XLR_20Female_20Connector_20with_20Cable.G03.2k.jpg?v=1690528720&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/XLR_20Female_20Connector_20with_20Cable.G05.2k.jpg?v=1690519056&width=950"
+        ],
         "descriptionProduct": "Fly high-end style with ELECTRO XLR Female Connector SKB8521 - bluetooth earphones with an original design. Bring chic fashion flair to your audio with a design that turns heads and a battery life that will keep you jamming all day long! Seriously, what are you waiting for? It's time to soar!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
       },
       {
@@ -165,7 +201,10 @@
         "price": "288.00  ",
         "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/XLR_20Male_20Connector_20with_20Cable.G03.2k.jpg?v=1690528738&width=950",
         "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/XLR_20Male_20Connector_20with_20Cable.G01.2k.jpg?v=1690528738&width=950",
-        "totalProduct": "https://electro-audio-demo.myshopify.com/cdn/shop/files/XLR_20Male_20Connector_20with_20Cable.G05.2k.jpg?v=1690519091&width=950",
+        "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/XLR_20Male_20Connector_20with_20Cable.G03.2k.jpg?v=1690528738&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/XLR_20Male_20Connector_20with_20Cable.G05.2k.jpg?v=1690519091&width=950"
+        ],
         "descriptionProduct": "Fly high-end style with ELECTRO XLR Male Connector SKB6811 - bluetooth earphones with an original design. Bring chic fashion flair to your audio with a design that turns heads and a battery life that will keep you jamming all day long! Seriously, what are you waiting for? It's time to soar!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
       },
       {
@@ -386,15 +425,17 @@
         "id": 3,
         "title": "ELECTRO SonicBlu SN2322",
         "price": "543.00  ",
-        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/8.jpg?v=1690517934&width=950",
-        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/7.jpg?v=1690517934&width=950",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/45.jpg?v=1690518567&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/43.jpg?v=1690518567&width=950",
         "totalProduct": [
-          "https://electro-audio-demo.myshopify.com/cdn/shop/files/7.jpg?v=1690517934&width=950",
-          "https://electro-audio-demo.myshopify.com/cdn/shop/files/4_854ff165-e33d-4c10-aa51-de818d909e20.jpg?v=1690772227&width=950",
-          "https://electro-audio-demo.myshopify.com/cdn/shop/files/3.jpg?v=1690772221&width=950"
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/45.jpg?v=1690518567&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/43.jpg?v=1690518567&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/9_145cf281-2252-4529-8cde-61119d779360.jpg?v=1690773805&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/10_e1979adc-cbdd-4019-adcc-e4951695977d.jpg?v=1690773814&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/11_b198509b-6bc7-4086-9d3a-176473b79431.jpg?v=1690773822&width=950"
         ],
         "model": ["Multi-Device", "In-Ear", "Noise-Cancelling", "USB-C"],
-        "colors": ["#ffc0cb", "#ee82ee", "#add8e6"],
+        "colors": ["#ffa500", "#008000", "#0000ff", "#808080"],
         "descriptionProduct": "Hear your music with ELECTRO SonicBlu SN2333! This must-have headphone cycles through the airwaves with futuristic flair, combining stylish design with the latest high-tech Bluetooth features. Enjoy incredible sound quality and feel like a modern-day techno wizard!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
       },
       {
@@ -445,6 +486,8 @@
         "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/23.jpg?v=1690518147&width=950",
         "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/22.jpg?v=1690518147&width=950",
         "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/23.jpg?v=1690518147&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/22.jpg?v=1690518147&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/1.jpg?v=1690771338&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/2.jpg?v=1690771346&width=950"
         ],
@@ -458,6 +501,7 @@
         "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/26.jpg?v=1690518206&width=950",
         "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/25.jpg?v=1690518206&width=950",
         "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/26.jpg?v=1690518206&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/25.jpg?v=1690518206&width=950"
         ],
         "descriptionProduct": "This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations."
@@ -470,6 +514,7 @@
         "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/17.jpg?v=1690518076&width=950",
         "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/16.jpg?v=1690518076&width=950",
         "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/17.jpg?v=1690518076&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/16.jpg?v=1690518076&width=950"
         ],
         "descriptionProduct": "Experience superior sound quality with the ELECTRO SonicBlu SN2360 wireless headphones. Featuring a unique design, this limited edition model comes equipped with exclusive technology for an immersive audio experience. Put on a pair of these headphones and enjoy your favorite music with clarity and power.This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
@@ -482,6 +527,7 @@
         "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/30.jpg?v=1690518352&width=950",
         "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/28.jpg?v=1690518352&width=950",
         "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/30.jpg?v=1690518352&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/28.jpg?v=1690518352&width=950"
         ],
         "descriptionProduct": "Experience superior sound quality with the ELECTRO SonicBlu SN3366 wireless headphones. Featuring a unique design, this limited edition model comes equipped with exclusive technology for an immersive audio experience. Put on a pair of these headphones and enjoy your favorite music with clarity and power.This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
@@ -494,6 +540,7 @@
         "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/32.jpg?v=1690518387&width=950",
         "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/31.jpg?v=1690518387&width=950",
         "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/32.jpg?v=1690518387&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/31.jpg?v=1690518387&width=950"
         ],
         "descriptionProduct": "Introducing the ELECTRO SonicBlu SN2319 Headphones! Hear every beat with colorful, playful vibes and high-quality sound that will never wash away thanks to its waterproof capabilities. Experience audio bliss while your ears are in the lap of luxurious comfort. Get your groove on, rain or shine!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
@@ -508,6 +555,7 @@
         "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/10.jpg?v=1690517991&width=950",
         "totalProduct": [
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/10.jpg?v=1690517991&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/10.jpg?v=1690517991&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/8_f87a423e-1e0c-4828-9c65-332e7be9d2cf.jpg?v=1690772972&width=950"
         ],
         "descriptionProduct": "Hear your music with ELECTRO SonicBlu SN2369! This must-have headphone cycles through the airwaves with futuristic flair, combining stylish design with the latest high-tech Bluetooth features. Enjoy incredible sound quality and feel like a modern-day techno wizard!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
@@ -520,6 +568,7 @@
         "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/36.jpg?v=1690518445&width=950",
         "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/34.jpg?v=1690518445&width=950",
         "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/36.jpg?v=1690518445&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/34.jpg?v=1690518445&width=950"
         ],
         "descriptionProduct": "Introducing the ELECTRO SonicBlu SN2312 Headphones! Hear every beat with colorful, playful vibes and high-quality sound that will never wash away thanks to its waterproof capabilities. Experience audio bliss while your ears are in the lap of luxurious comfort. Get your groove on, rain or shine!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
@@ -529,9 +578,10 @@
         "title": "ELECTRO SonicBlu SN8744",
         "price": "321.00 ",
         "colors": ["#ff0000", "#90ee90", "#ffc0cb"],
-        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/76.jpg?v=1690519018&width=950",
-        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/34.jpg?v=1690518445&width=950",
+        "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/78.jpg?v=1690519018&width=950",
+        "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/76.jpg?v=1690519018&width=950",
         "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/78.jpg?v=1690519018&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/76.jpg?v=1690519018&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/5_0ade2bb1-21dc-453e-b80e-abb5daf4f5be.jpg?v=1690772490&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/6.jpg?v=1690772500&width=950"
@@ -546,6 +596,7 @@
         "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/39.jpg?v=1690518517&width=950",
         "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/37.jpg?v=1690518517&width=950",
         "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/39.jpg?v=1690518517&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/37.jpg?v=1690518517&width=950"
         ],
         "descriptionProduct": "Introducing the ELECTRO SonicBlu SN2309 Headphones! Hear every beat with colorful, playful vibes and high-quality sound that will never wash away thanks to its waterproof capabilities. Experience audio bliss while your ears are in the lap of luxurious comfort. Get your groove on, rain or shine!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
@@ -558,6 +609,7 @@
         "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/47.jpg?v=1690518626&width=950",
         "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/46.jpg?v=1690518626&width=950",
         "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/47.jpg?v=1690518626&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/46.jpg?v=1690518626&width=950"
         ],
         "descriptionProduct": "Go all in with the ELECTRO SonicBlu SN8901, the most up-to-date Bluetooth headphone around. Forget tangled wires and lost time - wirelessly listen to your favorite jams on the go and beat the music-hassle blues. Plus, the smooth steel frame is so comfortable you won't want to take it off your ears! Enjoy life the sound-icious way.This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."

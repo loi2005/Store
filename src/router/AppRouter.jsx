@@ -17,7 +17,7 @@ function AppRouter() {
         <Route path="/aboutUs" element={<AboutUs />} />
         <Route path="/login" element={<Login />} />
         <Route path="/cart" element={<Cart />} />
-        <Route path="/collection" element={<Collection />} />
+        <Route path="/collection/:categoryName" element={<Collection />} />
       </Route>
     </Routes>
   );
