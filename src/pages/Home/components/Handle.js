@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { UseFetch } from "../../../services/api";
+
 const HandleColor = (index, productId) => {
   const [selectedColor, setSelectedColor] = useState(null);
   const [currentIndexImg, setCurrentIndexImg] = useState(0);

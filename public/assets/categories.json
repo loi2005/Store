@@ -403,6 +403,7 @@
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/Headphones.H03.2k.jpg?v=1690517478&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/109.jpg?v=1690517695&width=950"
         ],
+
         "model": ["Multi-Device", "In-Ear", "Noise-Cancelling", "USB-C"],
         "descriptionProduct": "Hear your music with ELECTRO SonicBlu SN2363! This must-have headphone cycles through the airwaves with futuristic flair, combining stylish design with the latest high-tech Bluetooth features. Enjoy incredible sound quality and feel like a modern-day techno wizard!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
       },
@@ -413,12 +414,18 @@
         "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/8.jpg?v=1690517934&width=950",
         "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/7.jpg?v=1690517934&width=950",
         "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/8.jpg?v=1690517934&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/7.jpg?v=1690517934&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/4_854ff165-e33d-4c10-aa51-de818d909e20.jpg?v=1690772227&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/3.jpg?v=1690772221&width=950"
         ],
+        "colorProducts": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/8.jpg?v=1690517934&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/4_854ff165-e33d-4c10-aa51-de818d909e20.jpg?v=1690772227&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/3.jpg?v=1690772221&width=950"
+        ],
         "model": ["Wireless", "Over-Ear", "ANC", "3.5mm"],
-        "colors": ["#ffc0cb", "#ee82ee", "#add8e6"],
+        "colors": [ "#ffc0cb", "#ee82ee", "#add8e6"],
         "descriptionProduct": "Hear your music with ELECTRO SonicBlu SN2333! This must-have headphone cycles through the airwaves with futuristic flair, combining stylish design with the latest high-tech Bluetooth features. Enjoy incredible sound quality and feel like a modern-day techno wizard!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
       },
       {

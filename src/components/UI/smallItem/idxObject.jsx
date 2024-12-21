@@ -10,7 +10,6 @@ function IdxObject({ product }) {
   const cx = classNames.bind(style);
   const totalCards = product.totalProduct.length;
   const { handlePrev, handleNext, currentIndex } = Btn_Pre_Next(totalCards);
-  console.log("this is a ", product);
   const handlePlusAmount = () => {
     setAmount((prev) => prev + 1);
   };

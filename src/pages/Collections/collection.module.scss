@@ -2,6 +2,9 @@
   margin-top: 18rem;
   background-color: var(--body-color);
 }
+.container_products {
+  display: flex;
+}
 //spinner
 .overlay {
   position: fixed; // To cover the entire screen
@@ -202,8 +205,96 @@
   font-size: 2.8rem;
   color: var(--body-color);
   cursor: pointer;
-  transition: 0.3s all ease;
+  transition: 0.2s all ease;
   &:hover {
     transform: scale(1.05);
   }
+}
+//pagination
+.btn-base {
+  height: 44px;
+  width: 44px;
+  border: none;
+  outline: none;
+  border-radius: 8px;
+  font-size: 2rem;
+  font-weight: 700;
+  margin: 0 10px;
+  transition: 0.3s all ease;
+  &:hover {
+    box-shadow: 0 0 10px var(--btn-bg);
+  }
+}
+.btn_pagination {
+  @extend .btn-base;
+  cursor: pointer;
+}
+.page {
+  @extend .btn-base;
+  cursor: pointer;
+  &:hover {
+    transform: translateY(-5px);
+  }
+}
+.activePage {
+  background-color: var(--btn-bg);
+}
+.pagination {
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.hiddenPage {
+  background-color: rgb(65, 64, 64);
+}
+//color
+
+.color-list {
+  display: flex;
+}
+.color-item {
+  position: relative;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: 0.3s all ease;
+}
+.color-circle {
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  position: absolute;
+}
+.color-name {
+  position: absolute;
+  top: -30px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1;
+  color: #fff;
+  white-space: nowrap;
+  padding: 0 10px;
+  border-radius: 5px;
+  display: flex;
+  font-weight: 600;
+  background-color: var(--navbar-color);
+  &::after {
+    position: absolute;
+    content: "";
+    width: 10px;
+    height: 10px;
+    background-color: var(--navbar-color);
+    top: 19px;
+    left: 43%;
+    transform: rotate(45deg);
+    z-index: -1;
+  }
+}
+.show_color {
+  background-color: rgb(244, 228, 163);
+  transition: 0.2s all ease;
 }

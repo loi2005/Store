@@ -9,6 +9,7 @@ import Handle from "../components/Handle";
 import Btn_Pre_Next from "../../../components/UI/Button";
 import SmallItem from "../../../components/UI/smallItem";
 import HandleToggle from "../../../components/UI/Toggle/handleToogle";
+import colorNames from "../../../components/common/ColorNames";
 const cx = classNames.bind(style);
 const CP = classNames.bind(CPstyle);
 function UseTrending() {
@@ -21,18 +22,6 @@ function UseTrending() {
   const { handlePrev, handleNext, currentIndex } = Btn_Pre_Next(totalCards);
   const promo1 = promos.promo1;
   const promo2 = promos.promo2;
-
-  const colorNames = {
-    "#ffc0cb": "Pink",
-    "#ee82ee": "Violet",
-    "#add8e6": "Light blue",
-    "#ffa500": "Orange",
-    "#808080": "Gray",
-    "#90ee90": "Light green",
-    "#ff0000": "Red",
-    "#008000": "Green",
-    "#0000ff": "Blue",
-  };
   if (!promos || !promo1 || !promo2) {
     console.log("don't load....");
     return <div>Loading...</div>;
