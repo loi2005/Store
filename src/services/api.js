@@ -101,4 +101,24 @@ const Foot = () => {
   }, []);
   return { foots, errorFoot };
 };
-export { UseFetch, Country, Promos, Categories, Comments, QA, Foot };
+//shop
+const Shop = (MenuList) => {
+  const [goods, setGoods] = useState({});
+  const [loading, setLoading] = useState(true);
+  useEffect(() => {
+    const getGoods = async () => {
+      try {
+        const res = await fetch("/assets/categories.json");
+        const data = await res.json();
+        setGoods(data.categories || MenuList);
+      } catch (error) {
+        setGoods(MenuList);
+      } finally {
+        setLoading(false);
+      }
+    };
+    getGoods();
+  }, []);
+  return { goods, loading };
+};
+export { UseFetch, Country, Promos, Categories, Comments, QA, Foot, Shop };

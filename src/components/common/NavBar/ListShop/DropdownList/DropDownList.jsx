@@ -1,15 +1,16 @@
-import { useEffect, useState } from "react";
+import { useState, useEffect } from "react";
 import { NavLink, useNavigate } from "react-router-dom";
 import style from "./downList.module.scss";
 import classNames from "classnames/bind";
 import img from "../../../../../assets/images/pexels-pavel-danilyuk-8001284(1).jpg";
+import { Shop } from "../../../../../services/api";
 import { Circles } from "react-loader-spinner";
 const cx = classNames.bind(style);
 function DropDownList() {
-  const [goods, setGoods] = useState({});
-  const [loading, setLoading] = useState(true);
   const navigate = useNavigate();
   const [isNavigating, setIsNavigating] = useState(false);
+  const [cat, setCat] = useState("");
+  console.log("after set cat", cat);
   // MenuList dùng làm fallback
   const MenuList = {
     Amplifiers: ["SKB2561", "SKB2565", "SKB2562"],
@@ -18,21 +19,7 @@ function DropDownList() {
     mouse: ["SM8953", "SM5312", "SM8953"],
     microPhone: ["MR6868", "MR2938", "MR3731"],
   };
-  // Fetch goods (categories) từ API
-  useEffect(() => {
-    const getGoods = async () => {
-      try {
-        const res = await fetch("/assets/categories.json");
-        const data = await res.json();
-        setGoods(data.categories || MenuList);
-      } catch (error) {
-        setGoods(MenuList);
-      } finally {
-        setLoading(false);
-      }
-    };
-    getGoods();
-  }, []);
+  const { goods, loading } = Shop(MenuList);
   const handleClick = (categoryName) => {
     const categoryProducts = goods[categoryName];
     setIsNavigating(true);
@@ -40,10 +27,9 @@ function DropDownList() {
       navigate(`/collection/${categoryName}`, {
         state: { products: categoryProducts, categoryName },
       });
-    }, 3000);
+    }, 1000);
     return () => clearTimeout(timer);
   };
-
   if (loading) {
     return (
       <div className={cx("spinner")}>

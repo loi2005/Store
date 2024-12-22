@@ -5,11 +5,13 @@ import { Link } from "react-router-dom";
 import HandleColor from "../Home/components/Handle";
 import { useLayout } from "./LayoutContext";
 import IdxObject from "../../components/UI/smallItem/idxObject";
-import Color from "./Color";
+import colorNames from "../../components/common/ColorNames";
+import { useState } from "react";
 const cx = classNames.bind(style);
 function ProductList({ currentPageProducts, HoverImage }) {
+  const { handleColor, selectedColor, currentImage } = HandleColor();
+  const [hoverColor, setHoverColor] = useState("");
   const { layout } = useLayout();
-  const { currentImage } = HandleColor();
   if (!currentPageProducts) return null;
   const { handleToggle, isToggle, selectProduct } = HandleToggle();
   return (
@@ -44,7 +46,32 @@ function ProductList({ currentPageProducts, HoverImage }) {
               </p>
               <p>{product.price}</p>
               <div className={cx("colors")}>
-                <Color product={product} />
+                {/* color */}
+                {product.colors &&
+                  product.colors.map((color, index) => (
+                    <div
+                      className={cx("color-item", {
+                        show_color:
+                          selectedColor?.index === index &&
+                          selectedColor?.id === product.id,
+                      })}
+                      key={`${product.id}-${color}-${index}`}
+                      onMouseEnter={() => setHoverColor({ color, index })}
+                      onMouseLeave={() => setHoverColor("")}
+                      onClick={() => handleColor(index, product.id)}
+                    >
+                      <span
+                        className={cx("color-circle")}
+                        style={{ backgroundColor: color }}
+                      ></span>
+                      {hoverColor.color === color &&
+                        hoverColor.index === index && (
+                          <div className={cx("color-name")}>
+                            {colorNames[color] || color}
+                          </div>
+                        )}
+                    </div>
+                  ))}
               </div>
               <div className={cx("models")}>
                 {product.model &&
