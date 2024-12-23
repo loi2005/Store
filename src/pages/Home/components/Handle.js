@@ -6,24 +6,24 @@ const HandleColor = (index, productId) => {
   const [currentIndexImg, setCurrentIndexImg] = useState(0);
   const [currentImage, setCurrentImage] = useState({});
   const { products } = UseFetch("/assets/products.json");
-
+  const { goods } = Shop();
   //current image
   const scrollImage = (index) => {
     setCurrentIndexImg(index);
   };
 
-  const handleColor = (index, productId) => {
+  const handleColor = (index, productId, categoryName) => {
     if (selectedColor?.index === index && selectedColor?.id === productId) {
       setSelectedColor(null);
       setCurrentImage("");
     } else {
       setSelectedColor({ index, id: productId });
-      const colorImage = products?.find((product) => product.id === productId)
-        ?.colorProducts[index];
+      const colorImage = goods[categoryName].find(
+        (product) => product.id === productId
+      )?.colorProducts[index];
       setCurrentImage((prev) => ({ ...prev, [productId]: colorImage || "" }));
     }
   };
-
   return {
     handleColor,
     selectedColor,

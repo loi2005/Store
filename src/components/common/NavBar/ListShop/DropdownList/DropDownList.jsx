@@ -9,8 +9,6 @@ const cx = classNames.bind(style);
 function DropDownList() {
   const navigate = useNavigate();
   const [isNavigating, setIsNavigating] = useState(false);
-  const [cat, setCat] = useState("");
-  console.log("after set cat", cat);
   // MenuList dùng làm fallback
   const MenuList = {
     Amplifiers: ["SKB2561", "SKB2565", "SKB2562"],

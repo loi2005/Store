@@ -6,6 +6,7 @@ import HoverImage from "../Home/components/HoverImage";
 import PaginationControl from "../../components/UI/Pagination/PaginationControl";
 import Header from "./Header";
 import ProductList from "./ProductList";
+import Filter from "./Filter";
 function Collection() {
   const location = useLocation();
   // Lấy dữ liệu từ localStorage hoặc state (truyền từ trang trước)
@@ -58,11 +59,12 @@ function Collection() {
         ) : (
           <div className={cx("container_products")}>
             <div className={cx("filter")}>
-              <p>Filter options will go here.</p>
+              <Filter />
             </div>
             <div className="product-list_item">
               <ul className={cx("listItem")}>
                 <ProductList
+                  categoryName={categoryName}
                   currentPageProducts={currentPageProducts}
                   HoverImage={HoverImage}
                 />

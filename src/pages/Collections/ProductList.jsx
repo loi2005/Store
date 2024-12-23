@@ -8,8 +8,9 @@ import IdxObject from "../../components/UI/smallItem/idxObject";
 import colorNames from "../../components/common/ColorNames";
 import { useState } from "react";
 const cx = classNames.bind(style);
-function ProductList({ currentPageProducts, HoverImage }) {
-  const { handleColor, selectedColor, currentImage } = HandleColor();
+function ProductList({ currentPageProducts, HoverImage, categoryName }) {
+  const { handleColor, selectedColor, currentImage } =
+    HandleColor(categoryName);
   const [hoverColor, setHoverColor] = useState("");
   const { layout } = useLayout();
   if (!currentPageProducts) return null;
@@ -58,7 +59,9 @@ function ProductList({ currentPageProducts, HoverImage }) {
                       key={`${product.id}-${color}-${index}`}
                       onMouseEnter={() => setHoverColor({ color, index })}
                       onMouseLeave={() => setHoverColor("")}
-                      onClick={() => handleColor(index, product.id)}
+                      onClick={() =>
+                        handleColor(index, product.id, categoryName)
+                      }
                     >
                       <span
                         className={cx("color-circle")}

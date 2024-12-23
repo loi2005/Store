@@ -131,6 +131,14 @@
         "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cell_20Phone_20Signal_20Booster_20Red.H03.2k.jpg?v=1690529703&width=950",
         "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cellphone_20Signal_20Booster_20Black.H03.2k.jpg?v=1690529703&width=950",
         "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cell_20Phone_20Signal_20Booster_20Red.H03.2k.jpg?v=1690529703&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cellphone_20Signal_20Booster_20Black.H03.2k.jpg?v=1690529703&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cellphone_20Signal_20Booster_20Blue.H03.2k.jpg?v=1690529703&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cellphone_20Signal_20Booster_20Green.H03.2k.jpg?v=1690529703&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cellphone_20Signal_20Booster_20Grey.H03.2k.jpg?v=1690529703&width=950"
+        ],
+        "colorProducts": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cell_20Phone_20Signal_20Booster_20Red.H03.2k.jpg?v=1690529703&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cellphone_20Signal_20Booster_20Black.H03.2k.jpg?v=1690529703&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cellphone_20Signal_20Booster_20Blue.H03.2k.jpg?v=1690529703&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cellphone_20Signal_20Booster_20Green.H03.2k.jpg?v=1690529703&width=950",
@@ -161,6 +169,10 @@
         "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Red_20Knob.H03.2k.jpg?v=1690518825&width=950",
         "totalProduct": [
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/Black_20Knob.H03.2k.jpg?v=1690518825&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Black_20Knob.H03.2k.jpg?v=1690518825&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Red_20Knob.H03.2k.jpg?v=1690518825&width=950"
+        ],
+        "colorProducts": [
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/Black_20Knob.H03.2k.jpg?v=1690518825&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/Red_20Knob.H03.2k.jpg?v=1690518825&width=950"
         ],
@@ -223,6 +235,15 @@
         "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Black.H03.2k_cfded540-6935-49ee-a04a-988b5e7ffd15.jpg?v=1690529075&width=950",
         "totalProduct": [
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Black.H03.2k_cfded540-6935-49ee-a04a-988b5e7ffd15.jpg?v=1690529075&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Blue.H03.2k_36216bc6-3382-4b15-8540-91685190f494.jpg?v=1690529075&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Green.H03.2k_0382f5e0-91bb-4933-ad24-5442dae9000f.jpg?v=1690529068&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Grey.H03.2k_df0f8648-deb7-4ded-a4f4-5a30704e1eb1.jpg?v=1690529068&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Pink.H03.2k_e9bd5d88-ce77-4684-ad8f-3e25b061649b.jpg?v=1690529068&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Red.G03.2k_3b7f6e6f-4bfc-435c-9acd-890d11475bce.jpg?v=1690529068&width=950"
+        ],
+        "colorProducts": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Black.H03.2k_cfded540-6935-49ee-a04a-988b5e7ffd15.jpg?v=1690529075&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Blue.H03.2k_36216bc6-3382-4b15-8540-91685190f494.jpg?v=1690529075&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Green.H03.2k_0382f5e0-91bb-4933-ad24-5442dae9000f.jpg?v=1690529068&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Grey.H03.2k_df0f8648-deb7-4ded-a4f4-5a30704e1eb1.jpg?v=1690529068&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Pink.H03.2k_e9bd5d88-ce77-4684-ad8f-3e25b061649b.jpg?v=1690529068&width=950",
@@ -246,6 +267,15 @@
         "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Green.H03.2k_e803ac6c-afe4-4ecf-92ec-2f75a3444e89.jpg?v=1690529165&width=950",
         "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Black.H03.2k_3d196279-143b-4093-ac3e-dbfa8b9c2943.jpg?v=1690529165&width=950",
         "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Green.H03.2k_e803ac6c-afe4-4ecf-92ec-2f75a3444e89.jpg?v=1690529165&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Black.H03.2k_3d196279-143b-4093-ac3e-dbfa8b9c2943.jpg?v=1690529165&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Blue.H03.2k_e4cf82cd-8799-4cc1-b98e-4af61879c883.jpg?v=1690529165&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Grey.H03.2k_1bf000fc-e4a4-4adc-adf5-de88e2b243d2.jpg?v=1690529110&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Pink.H03.2k_1fab1db0-32f3-483b-8dee-0c8c38c30909.jpg?v=1690529110&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Red.G03.2k_88c121ec-a85e-4902-b4e1-07ffec051406.jpg?v=1690529110&width=950"
+        ],
+        "colorProducts": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Green.H03.2k_e803ac6c-afe4-4ecf-92ec-2f75a3444e89.jpg?v=1690529165&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Black.H03.2k_3d196279-143b-4093-ac3e-dbfa8b9c2943.jpg?v=1690529165&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Blue.H03.2k_e4cf82cd-8799-4cc1-b98e-4af61879c883.jpg?v=1690529165&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Grey.H03.2k_1bf000fc-e4a4-4adc-adf5-de88e2b243d2.jpg?v=1690529110&width=950",
@@ -270,6 +300,15 @@
         "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Grey.H03.2k_d7cb821e-53a4-48ad-93ca-2ce32360c912.jpg?v=1690529220&width=950",
         "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Green.H03.2k_a744c12a-f3b1-4e9a-a114-147e04755a20.jpg?v=1690529220&width=950",
         "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Grey.H03.2k_d7cb821e-53a4-48ad-93ca-2ce32360c912.jpg?v=1690529220&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Green.H03.2k_a744c12a-f3b1-4e9a-a114-147e04755a20.jpg?v=1690529220&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Black.H03.2k_7845dae5-4fdd-4907-99a4-984f6d3f1fd0.jpg?v=1690529220&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Blue.H03.2k_c81e2d2c-7675-4d2f-aa98-4e2c3eb34949.jpg?v=1690529220&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Pink.H03.2k_15f816ea-ab5d-42f5-9c3f-013520d53c70.jpg?v=1690529210&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Red.G03.2k_d415956b-5b66-4417-939d-e967753d6734.jpg?v=1690529210&width=950"
+        ],
+        "colorProducts": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Grey.H03.2k_d7cb821e-53a4-48ad-93ca-2ce32360c912.jpg?v=1690529220&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Green.H03.2k_a744c12a-f3b1-4e9a-a114-147e04755a20.jpg?v=1690529220&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Black.H03.2k_7845dae5-4fdd-4907-99a4-984f6d3f1fd0.jpg?v=1690529220&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Blue.H03.2k_c81e2d2c-7675-4d2f-aa98-4e2c3eb34949.jpg?v=1690529220&width=950",
@@ -294,6 +333,15 @@
         "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Pink.H03.2k_89eb2a21-edec-4b81-8708-43da7ffcbcba.jpg?v=1690529270&width=950",
         "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Black.H03.2k_913e9e6a-f5a3-41f4-a510-c24918772e48.jpg?v=1690529270&width=950",
         "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Pink.H03.2k_89eb2a21-edec-4b81-8708-43da7ffcbcba.jpg?v=1690529270&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Black.H03.2k_913e9e6a-f5a3-41f4-a510-c24918772e48.jpg?v=1690529270&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Blue.H03.2k_50da994a-4875-4fc3-9231-67246e66535a.jpg?v=1690529270&width=950  ",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Green.H03.2k_e64d0333-4430-46f1-a3a3-ac95b3c457af.jpg?v=1690529270&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Grey.H03.2k_c8576f3c-c36f-4075-8c88-994d0c69d3d3.jpg?v=1690529270&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Red.G03.2k_0ae68e10-776b-4212-a55c-84adc804d77c.jpg?v=1690529262&width=950"
+        ],
+        "colorProducts": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Pink.H03.2k_89eb2a21-edec-4b81-8708-43da7ffcbcba.jpg?v=1690529270&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Black.H03.2k_913e9e6a-f5a3-41f4-a510-c24918772e48.jpg?v=1690529270&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Blue.H03.2k_50da994a-4875-4fc3-9231-67246e66535a.jpg?v=1690529270&width=950  ",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Green.H03.2k_e64d0333-4430-46f1-a3a3-ac95b3c457af.jpg?v=1690529270&width=950",
@@ -318,6 +366,15 @@
         "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Red.G03.2k_dc49ae30-aaa4-4d02-b0e6-11040a722ea2.jpg?v=1690529499&width=950",
         "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Black.H03.2k_068ca7cc-88c9-4ab0-b7ac-9238ae01154a.jpg?v=1690529499&width=950",
         "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Red.G03.2k_dc49ae30-aaa4-4d02-b0e6-11040a722ea2.jpg?v=1690529499&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Black.H03.2k_068ca7cc-88c9-4ab0-b7ac-9238ae01154a.jpg?v=1690529499&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Blue.H03.2k_96cf4426-6bda-4b23-a5fc-59196e6149dc.jpg?v=1690529499&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Green.H03.2k_e64d0333-4430-46f1-a3a3-ac95b3c457af.jpg?v=1690529270&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Grey.H03.2k_c8576f3c-c36f-4075-8c88-994d0c69d3d3.jpg?v=1690529270&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Pink.H03.2k_b46ab8c8-c9e7-44bd-9f38-a377e19f96b1.jpg?v=1690529499&width=950"
+        ],
+        "colorProducts": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Red.G03.2k_dc49ae30-aaa4-4d02-b0e6-11040a722ea2.jpg?v=1690529499&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Black.H03.2k_068ca7cc-88c9-4ab0-b7ac-9238ae01154a.jpg?v=1690529499&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Blue.H03.2k_96cf4426-6bda-4b23-a5fc-59196e6149dc.jpg?v=1690529499&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/Car_20Amplifier_20Green.H03.2k_e64d0333-4430-46f1-a3a3-ac95b3c457af.jpg?v=1690529270&width=950",
@@ -342,6 +399,14 @@
         "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cellphone_20Signal_20Booster_20Black.H03.2k_25c02920-3584-4857-843d-01313c765e95.jpg?v=1690529561&width=950",
         "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cell_20Phone_20Signal_20Booster_20Red.H03.2k_3e507988-de1f-4b36-b673-eb8eb168c20c.jpg?v=1690529561&width=950",
         "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cellphone_20Signal_20Booster_20Black.H03.2k_25c02920-3584-4857-843d-01313c765e95.jpg?v=1690529561&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cell_20Phone_20Signal_20Booster_20Red.H03.2k_3e507988-de1f-4b36-b673-eb8eb168c20c.jpg?v=1690529561&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cellphone_20Signal_20Booster_20Blue.H03.2k_93432c34-f52d-4397-a08e-cca6acd9a07c.jpg?v=1690529554&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cellphone_20Signal_20Booster_20Green.H03.2k_02406687-6969-449f-a2d3-1a79712d5120.jpg?v=1690529555&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cellphone_20Signal_20Booster_20Grey.H03.2k_dd112eec-8629-445e-9b66-98088106f3b2.jpg?v=1690529555&width=950"
+        ],
+        "colorProducts": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cellphone_20Signal_20Booster_20Black.H03.2k_25c02920-3584-4857-843d-01313c765e95.jpg?v=1690529561&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cell_20Phone_20Signal_20Booster_20Red.H03.2k_3e507988-de1f-4b36-b673-eb8eb168c20c.jpg?v=1690529561&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cellphone_20Signal_20Booster_20Blue.H03.2k_93432c34-f52d-4397-a08e-cca6acd9a07c.jpg?v=1690529554&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cellphone_20Signal_20Booster_20Green.H03.2k_02406687-6969-449f-a2d3-1a79712d5120.jpg?v=1690529555&width=950",
@@ -358,8 +423,16 @@
         "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cellphone_20Signal_20Booster_20Blue.H03.2k_12fa4cb4-5532-4ab2-ad08-268dce28cf91.jpg?v=1690529610&width=950",
         "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cell_20Phone_20Signal_20Booster_20Red.H03.2k_284bb0fa-00f5-4951-b4f5-87eb94c48097.jpg?v=1690529610&width=950",
         "totalProduct": [
-          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cell_20Phone_20Signal_20Booster_20Red.H03.2k_3e507988-de1f-4b36-b673-eb8eb168c20c.jpg?v=1690529561&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cellphone_20Signal_20Booster_20Blue.H03.2k_93432c34-f52d-4397-a08e-cca6acd9a07c.jpg?v=1690529554&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cell_20Phone_20Signal_20Booster_20Red.H03.2k_3e507988-de1f-4b36-b673-eb8eb168c20c.jpg?v=1690529561&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cellphone_20Signal_20Booster_20Black.H03.2k_de265431-261c-48d8-9d14-66b0e84011e9.jpg?v=1690529610&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cellphone_20Signal_20Booster_20Green.H03.2k_afceee56-f22d-4b43-926b-58332fd88e9f.jpg?v=1690529602&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cellphone_20Signal_20Booster_20Grey.H03.2k_76888d20-d16e-4f4d-84b7-ae2922a49ddd.jpg?v=1690529602&width=950"
+        ],
+        "colorProducts": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cellphone_20Signal_20Booster_20Blue.H03.2k_93432c34-f52d-4397-a08e-cca6acd9a07c.jpg?v=1690529554&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cell_20Phone_20Signal_20Booster_20Red.H03.2k_3e507988-de1f-4b36-b673-eb8eb168c20c.jpg?v=1690529561&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cellphone_20Signal_20Booster_20Black.H03.2k_de265431-261c-48d8-9d14-66b0e84011e9.jpg?v=1690529610&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cellphone_20Signal_20Booster_20Green.H03.2k_afceee56-f22d-4b43-926b-58332fd88e9f.jpg?v=1690529602&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cellphone_20Signal_20Booster_20Grey.H03.2k_76888d20-d16e-4f4d-84b7-ae2922a49ddd.jpg?v=1690529602&width=950"
         ],
@@ -374,6 +447,14 @@
         "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cellphone_20Signal_20Booster_20Green.H03.2k_310e93a7-a5fd-490f-8974-5ad7fddeb4cc.jpg?v=1690529666&width=950",
         "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cellphone_20Signal_20Booster_20Blue.H03.2k_4ab06341-2742-4d55-bafe-a3ca4014432b.jpg?v=1690529666&width=950",
         "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cellphone_20Signal_20Booster_20Green.H03.2k_310e93a7-a5fd-490f-8974-5ad7fddeb4cc.jpg?v=1690529666&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cellphone_20Signal_20Booster_20Blue.H03.2k_4ab06341-2742-4d55-bafe-a3ca4014432b.jpg?v=1690529666&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cell_20Phone_20Signal_20Booster_20Red.H03.2k_2797bf70-d870-466b-948c-f2a069b17e33.jpg?v=1690529666&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cellphone_20Signal_20Booster_20Black.H03.2k_a73e3431-5ecc-4ae7-9971-8b903c62de15.jpg?v=1690529666&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cellphone_20Signal_20Booster_20Grey.H03.2k_62758162-be14-4589-a467-711e87f60549.jpg?v=1690529635&width=950"
+        ],
+        "colorProducts": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cellphone_20Signal_20Booster_20Green.H03.2k_310e93a7-a5fd-490f-8974-5ad7fddeb4cc.jpg?v=1690529666&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cellphone_20Signal_20Booster_20Blue.H03.2k_4ab06341-2742-4d55-bafe-a3ca4014432b.jpg?v=1690529666&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cell_20Phone_20Signal_20Booster_20Red.H03.2k_2797bf70-d870-466b-948c-f2a069b17e33.jpg?v=1690529666&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cellphone_20Signal_20Booster_20Black.H03.2k_a73e3431-5ecc-4ae7-9971-8b903c62de15.jpg?v=1690529666&width=950",
@@ -390,6 +471,14 @@
         "image": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cellphone_20Signal_20Booster_20Grey.H03.2k_686c194f-cc98-4696-bd28-c70dd9addfd6.jpg?v=1690529729&width=950",
         "hoverImages": "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cell_20Phone_20Signal_20Booster_20Red.H03.2k_fe57b3c7-1ef1-40e4-81df-6c7f447ca21e.jpg?v=1690529729&width=950",
         "totalProduct": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cellphone_20Signal_20Booster_20Grey.H03.2k_686c194f-cc98-4696-bd28-c70dd9addfd6.jpg?v=1690529729&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cell_20Phone_20Signal_20Booster_20Red.H03.2k_fe57b3c7-1ef1-40e4-81df-6c7f447ca21e.jpg?v=1690529729&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cellphone_20Signal_20Booster_20Black.H03.2k_510ab3e1-a284-4c07-871c-bd867f28c4b1.jpg?v=1690529729&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cellphone_20Signal_20Booster_20Blue.H03.2k_12303847-f20b-4531-917b-57b57418a35d.jpg?v=1690529729&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cellphone_20Signal_20Booster_20Green.H03.2k_9fc09378-830e-4099-939f-e11a17d800cc.jpg?v=1690529729&width=950"
+        ],
+        "colorProducts": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cellphone_20Signal_20Booster_20Grey.H03.2k_686c194f-cc98-4696-bd28-c70dd9addfd6.jpg?v=1690529729&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cell_20Phone_20Signal_20Booster_20Red.H03.2k_fe57b3c7-1ef1-40e4-81df-6c7f447ca21e.jpg?v=1690529729&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cellphone_20Signal_20Booster_20Black.H03.2k_510ab3e1-a284-4c07-871c-bd867f28c4b1.jpg?v=1690529729&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/Cellphone_20Signal_20Booster_20Blue.H03.2k_12303847-f20b-4531-917b-57b57418a35d.jpg?v=1690529729&width=950",
@@ -449,6 +538,12 @@
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/10_e1979adc-cbdd-4019-adcc-e4951695977d.jpg?v=1690773814&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/11_b198509b-6bc7-4086-9d3a-176473b79431.jpg?v=1690773822&width=950"
         ],
+        "colorProducts": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/45.jpg?v=1690518567&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/9_145cf281-2252-4529-8cde-61119d779360.jpg?v=1690773805&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/10_e1979adc-cbdd-4019-adcc-e4951695977d.jpg?v=1690773814&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/11_b198509b-6bc7-4086-9d3a-176473b79431.jpg?v=1690773822&width=950"
+        ],
         "model": ["Multi-Device", "In-Ear", "Noise-Cancelling", "USB-C"],
         "colors": ["#ffa500", "#008000", "#0000ff", "#808080"],
         "descriptionProduct": "Hear your music with ELECTRO SonicBlu SN2333! This must-have headphone cycles through the airwaves with futuristic flair, combining stylish design with the latest high-tech Bluetooth features. Enjoy incredible sound quality and feel like a modern-day techno wizard!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
@@ -503,6 +598,12 @@
         "totalProduct": [
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/23.jpg?v=1690518147&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/22.jpg?v=1690518147&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/1.jpg?v=1690771338&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/2.jpg?v=1690771346&width=950"
+        ],
+        "colorProducts": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/23.jpg?v=1690518147&width=950",
+
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/1.jpg?v=1690771338&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/2.jpg?v=1690771346&width=950"
         ],
@@ -573,6 +674,11 @@
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/10.jpg?v=1690517991&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/8_f87a423e-1e0c-4828-9c65-332e7be9d2cf.jpg?v=1690772972&width=950"
         ],
+        "colorProducts": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/10.jpg?v=1690517991&width=950",
+
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/8_f87a423e-1e0c-4828-9c65-332e7be9d2cf.jpg?v=1690772972&width=950"
+        ],
         "descriptionProduct": "Hear your music with ELECTRO SonicBlu SN2369! This must-have headphone cycles through the airwaves with futuristic flair, combining stylish design with the latest high-tech Bluetooth features. Enjoy incredible sound quality and feel like a modern-day techno wizard!This product offers exceptional quality and value, ensuring an outstanding user experience with every use. This product offers exceptional quality and value, ensuring an outstanding user experience with every use. Crafted with the finest materials, it delivers superior performance and durability. Ideal for those who seek both functionality and style, this product meets the highest standards and exceeds expectations. Whether for personal use or as a gift, it is a choice that guarantees satisfaction. Experience the difference with our premium offering, designed to provide unmatched reliability and enjoyment in every aspect. Embrace excellence with this top-of-the-line product."
       },
       {
@@ -598,6 +704,11 @@
         "totalProduct": [
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/78.jpg?v=1690519018&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/76.jpg?v=1690519018&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/5_0ade2bb1-21dc-453e-b80e-abb5daf4f5be.jpg?v=1690772490&width=950",
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/6.jpg?v=1690772500&width=950"
+        ],
+        "colorProducts": [
+          "https://electro-audio-demo.myshopify.com/cdn/shop/files/78.jpg?v=1690519018&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/5_0ade2bb1-21dc-453e-b80e-abb5daf4f5be.jpg?v=1690772490&width=950",
           "https://electro-audio-demo.myshopify.com/cdn/shop/files/6.jpg?v=1690772500&width=950"
         ],

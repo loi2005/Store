@@ -33,13 +33,13 @@ function IdxObject({ product }) {
           <div className={cx("container-image")}>
             <div
               style={{
-                transform: `translateX(-${currentIndex * 730}px)`,
+                transform: `translateX(-${currentIndex * 800}px)`,
               }}
               className={cx("box-img")}
             >
               <div
                 className={cx("sub-box-img")}
-                style={{ transform: `translateX(-${currentIndexImg * 730}px)` }}
+                style={{ transform: `translateX(-${currentIndexImg * 850}px)` }}
               >
                 {product.totalProduct &&
                   Object.values(product.totalProduct).map((item, index) => (
