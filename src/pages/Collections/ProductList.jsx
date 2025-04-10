@@ -6,17 +6,33 @@ import HandleColor from "../Home/components/Handle";
 import { useLayout } from "./LayoutContext";
 import IdxObject from "../../components/UI/smallItem/idxObject";
 import colorNames from "../../components/common/ColorNames";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 const cx = classNames.bind(style);
-function ProductList({ currentPageProducts, HoverImage, categoryName }) {
-  const { handleColor, selectedColor, currentImage } =
-    HandleColor(categoryName);
+function ProductList({ currentPageProducts, HoverImage, categoryName, color }) {
+  const { handleColor, selectedColor, currentImage } = HandleColor();
   const [hoverColor, setHoverColor] = useState("");
+  const { handleToggle, isToggle, selectProduct } = HandleToggle();
+  const [currentProducts, setCurrentProducts] = useState(currentPageProducts);
+  useEffect(() => {
+    if (color && color.length > 0) {
+      const filteredProducts = currentProducts?.filter((product) => {
+        product.colors && product.colors.includes(color);
+      });
+      setCurrentProducts(filteredProducts);
+    } else {
+      console.log("error");
+      setCurrentProducts(currentPageProducts);
+    }
+  }, [color, currentPageProducts]);
+  useEffect(() => {
+    console.log("currentProducts updated: ", currentProducts);
+  }, [currentProducts]);
+
   const { layout } = useLayout();
   if (!currentPageProducts) return null;
-  const { handleToggle, isToggle, selectProduct } = HandleToggle();
   return (
     <div className={cx("product-list")}>
+      <div className={cx("Path")}></div>
       {isToggle && <IdxObject product={selectProduct} />}
       <div
         className={cx("display-product", {
@@ -24,7 +40,7 @@ function ProductList({ currentPageProducts, HoverImage, categoryName }) {
           list_Layout: layout === "list",
         })}
       >
-        {currentPageProducts.map((product, index) => (
+        {currentProducts.map((product, index) => (
           <li key={index} className={cx("item")}>
             <div className={cx("image")}>
               <Link to="#" className={cx("link")}>

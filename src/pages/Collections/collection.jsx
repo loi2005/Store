@@ -26,6 +26,7 @@ function Collection() {
       localStorage.setItem("categoryName", categoryName);
     }
   }, [products, categoryName]);
+
   const cx = classNames.bind(style);
   const [currentPage, setCurrentPage] = useState(1);
   const itemsPerPage = 16;
@@ -52,14 +53,18 @@ function Collection() {
   }, [location]);
   return (
     <div className={cx("container")}>
-      <Header categoryName={categoryName} totalItems={totalItems} />
+      <Header
+        categoryName={categoryName}
+        totalItems={totalItems}
+        currentPageProducts={currentPageProducts}
+      />
       <div className={cx("content")}>
         {products.length === 0 ? (
           <div className={cx("no-products")}>No products available.</div>
         ) : (
           <div className={cx("container_products")}>
             <div className={cx("filter")}>
-              <Filter />
+              <Filter Products={currentPageProducts} />
             </div>
             <div className="product-list_item">
               <ul className={cx("listItem")}>

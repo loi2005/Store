@@ -11,5 +11,4 @@ export const LayoutProvider = ({ children }) => {
     </LayoutContext.Provider>
   );
 };
-
 export const useLayout = () => useContext(LayoutContext);

@@ -302,49 +302,63 @@
 }
 
 //option
-.option {
-  z-index: 999999;
+.options {
+  z-index: 999;
   margin: 0 20px;
   height: 50px;
   width: 250px;
   transition: 0.3s all ease;
   position: relative;
 }
-.list-option {
-  height: 100%;
+.option {
   width: 100%;
-  background-color: #fff;
+  height: 100%;
+  font-size: 2rem;
+  font-weight: 700;
+  outline: none;
+  border: none;
+  border-radius: 8px;
+  padding-left: 10px;
+}
+//filter_color
+.sections_color .heading_color {
+  color: #fff;
   display: flex;
   align-items: center;
-  border-radius: 8px;
-  cursor: pointer;
   justify-content: space-between;
-  padding: 0 20px 0 10px;
+  padding: 0 50px 0 20px;
+  margin-bottom: 40px;
+  font-size: 2rem;
+  font-weight: 500;
 }
-.select-items {
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-  position: absolute;
-  top: 55px;
-  background-color: #fff;
-  color: #000;
-  border-radius: 10px;
-  width: 100%;
-  overflow: hidden;
-  line-height: 40px;
-}
-.itemOfList {
-  cursor: pointer;
-  padding-left: 10px;
-  &:hover {
-    background-color: rgb(46, 94, 227);
-    transition: 0.2s all ease;
-  }
-}
-.icon_drop {
+.heading_color .icon_color {
   font-size: 3rem;
+  cursor: pointer;
   transition: 0.2s all ease;
 }
-.active {
+.subFilter {
+  display: grid;
+  grid-template-columns: repeat(2, 150px);
+  gap: 25px;
+  padding-left: 30px;
+}
+.filter_color {
+  height: 35px;
+  width: 35px;
+  border-radius: 50%;
+  position: relative;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+.nameColor {
+  position: absolute;
+  left: 50px;
+  font-size: 1.8rem;
+  color: #fff;
+  white-space: nowrap;
+}
+.hidden {
   transform: rotate(180deg);
   transition: 0.2s all ease;
 }

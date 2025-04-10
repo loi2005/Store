@@ -1,4 +1,4 @@
-import { Route, Routes } from "react-router-dom";
+import { Route, Routes, Navigate } from "react-router-dom";
 import Home from "../pages/Home/Home";
 import AboutUs from "../pages/AboutUs/AboutUs";
 import Compare from "../pages/Compare/Compare";
@@ -11,6 +11,8 @@ function AppRouter() {
   return (
     <Routes>
       <Route path="/" element={<MainLayout />}>
+        <Route index element={<Navigate to="/home" />} />
+
         <Route path="/home" element={<Home />} />
         <Route path="/blackFriday" element={<BlackFriday />} />
         <Route path="/compare" element={<Compare />} />

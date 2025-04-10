@@ -8,5 +8,6 @@ const colorNames = {
   "#ff0000": "Red",
   "#008000": "Green",
   "#0000ff": "Blue",
+  "#000000": "Black",
 };
 export default colorNames;

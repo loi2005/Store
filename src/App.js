@@ -1,5 +1,4 @@
-import React, { useEffect } from "react";
-import { useNavigate } from "react-router-dom";
+import React from "react";
 import AppRouter from "./router/AppRouter";
 import { LayoutProvider } from "./pages/Collections/LayoutContext";
 function App() {
@@ -11,5 +10,4 @@ function App() {
     </div>
   );
 }
-
 export default App;
